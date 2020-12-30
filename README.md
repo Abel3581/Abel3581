@@ -22,6 +22,6 @@ Hola mi nombre es Abel Acevedo, actualmente estoy cursando la Licenciatura en Si
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-p align="center">
-  <img width="250" src="yoda.gif">
+<p align="center">
+  <img width="400" src="yoda.gif">
 </p>
