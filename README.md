@@ -23,5 +23,5 @@ Hola mi nombre es Abel Acevedo, actualmente estoy cursando la Licenciatura en Si
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 <p align="center">
-  <img width="400" src="yoda.gif">
+  <img width="400" height="400" src="yoda.gif">
 </p>
