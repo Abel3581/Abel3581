@@ -5,7 +5,7 @@ Hola mi nombre es Abel Acevedo, actualmente estoy cursando la Licenciatura en Si
 [![Linkedin Badge](https://img.shields.io/badge/-AbelAcevedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abel-fernando-acevedo/)](https://www.linkedin.com/in/abel-fernando-acevedo/)
 [![Github Badge](https://img.shields.io/badge/-Abel3581-purple?style=flat-square&logo=github&logoColor=white&link=https://github.com/Abel3581)](https://github.com/Abel3581)
 [![Whatsapp Badge](https://img.shields.io/badge/-541170197183-green?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/541170197183)](https://wa.me/541170197183)
-[![CV Badge](https://img.shields.io/badge/-CV-red?style=flat-square&logo=cv&logoColor=white&link=https://abel3581.github.io/CV-Abel-Acevedo/)](https://abel3581.github.io/CV-Abel-Acevedo/)
+[![CV Badge](https://img.shields.io/badge/-CV-red?style=flat-square&logo=cv&logoColor=white&link=https://abel3581.github.io/CV-FULL-STACK/)](https://abel3581.github.io/CV-FULL-STACK/)
 ## ⚡ Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
