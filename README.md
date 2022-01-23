@@ -9,7 +9,7 @@ Hola mi nombre es Abel Acevedo, actualmente estoy cursando la Licenciatura en Si
 ## ⚡ Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Python](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?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -22,6 +22,8 @@ Hola mi nombre es Abel Acevedo, actualmente estoy cursando la Licenciatura en Si
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![Spring Boot](https://img.shields.io/badge/-Spring Boot-black?style=flatsquare&logo=spring boot)
+
 
 <p align="center">
   <img width="500"  src="yoda.gif">
