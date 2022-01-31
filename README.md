@@ -25,7 +25,7 @@ Hola mi nombre es Abel Acevedo, actualmente estoy cursando la Licenciatura en Si
 -->
 <h1 align=center>¡Hello! I'm Abel Acevedo</h1>
 <h3 align="center">Java Backend Developer</h3>
-<h3 align="center"> Java Backend Developer </h3>
+
 
 <h3 align="left">How to reach me:</h3>
 
