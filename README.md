@@ -1,12 +1,12 @@
-## Que bueno verte por aquí! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## good to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-Hola mi nombre es Abel Acevedo, actualmente estoy cursando la Licenciatura en Sistemas y la Tecnicatura Superior en Informatica en la [Universidad Nacional de General Sarmiento](https://www.ungs.edu.ar/). Soy un entusiasta en el desarrollo web front-end y back end. Siempre estoy abierto a colaborar en proyectos e ideas innovadoras. Obtenga más información sobre mí y no dude en conectarse conmigo aquí:
+Hello, my name is Abel Acevedo, I am from Argentina BS AS, I am currently studying a Bachelor of Systems and a Higher Technician in Computer Science at the [National University of General Sarmiento](https://www.ungs.edu.ar/). I am an enthusiast in front-end and back-end web development. I am always open to collaborate on innovative projects and ideas. Learn more about me and feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-AbelAcevedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abel-fernando-acevedo/)](https://www.linkedin.com/in/abel-fernando-acevedo/)
 [![Github Badge](https://img.shields.io/badge/-Abel3581-purple?style=flat-square&logo=github&logoColor=white&link=https://github.com/Abel3581)](https://github.com/Abel3581)
 [![Whatsapp Badge](https://img.shields.io/badge/-541170197183-green?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/541170197183)](https://wa.me/541170197183)
 [![CV Badge](https://img.shields.io/badge/-CV-red?style=flat-square&logo=cv&logoColor=white&link=https://abel3581.github.io/CV-FULL-STACK/)](https://abel3581.github.io/CV-FULL-STACK/)
-## ⚡ Tecnologias
+## ⚡ Technologies
 <!--
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](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?style=flat-square&logo=Python)
