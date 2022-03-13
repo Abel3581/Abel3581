@@ -24,7 +24,7 @@ Hola mi nombre es Abel Acevedo, actualmente estoy cursando la Licenciatura en Si
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 -->
 <h1 align=center>¡Hello! I'm Abel Acevedo</h1>
-<h3 align="center">Java Backend Developer</h3>
+<h3 align="center">Java Backend Developer Spring Boot, agile methodologies jira and trello.</h3>
 
 
 <h3 align="left">How to reach me:</h3>
