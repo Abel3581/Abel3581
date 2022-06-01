@@ -1,4 +1,4 @@
-## good to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## good to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px" height="40">
 
 Hello, my name is Abel Acevedo, I am from Argentina BS AS, I am currently studying a Bachelor of Systems and a Higher Technician in Computer Science at the [National University of General Sarmiento](https://www.ungs.edu.ar/). I am an enthusiast in front-end and back-end web development. I am always open to collaborate on innovative projects and ideas. Learn more about me and feel free to connect with me here:
 
