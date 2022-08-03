@@ -1,6 +1,8 @@
 ## good to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px" height="40">
 
-Hello, my name is Abel Acevedo, I am from Argentina BS AS, I am currently studying a Bachelor of Systems and a Higher Technician in Computer Science at the [National University of General Sarmiento](https://www.ungs.edu.ar/). I am an enthusiast in front-end and back-end web development. I am always open to collaborate on innovative projects and ideas. Learn more about me and feel free to connect with me here:
+Hola mi nombre es Abel, soy de Argentina BS AS, estudiande de Licenciatura en Sistemas en la [Universidad Nacional de General Sarmiento](https://www.ungs.edu.ar/). 
+Soy un desarrollador Back-End Java Spring Boot, con conocimientos en Html, JavaScript, Css3.
+Me gustan trabajar en proyectos desafiantes aportando mis conocimientos y aprendiendo al mismo tiempo.
 
 [![Linkedin Badge](https://img.shields.io/badge/-AbelAcevedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abel-fernando-acevedo/)](https://www.linkedin.com/in/abel-fernando-acevedo/)
 [![Github Badge](https://img.shields.io/badge/-Abel3581-purple?style=flat-square&logo=github&logoColor=white&link=https://github.com/Abel3581)](https://github.com/Abel3581)
