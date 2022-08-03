@@ -53,6 +53,7 @@ Me gustan trabajar en proyectos desafiantes aportando mis conocimientos y aprend
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40"height="40"/>
  </a>
   <a href="https://es.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-4.png" alt="javaScript" width="40" height="40"/></a>
+  <a href="" target="_blank"><img src="https://www.eclipse.org/community/eclipse_newsletter/2015/may/images/gradlephant.png" width="40" height="40"/></a>
  
 
 </p>
