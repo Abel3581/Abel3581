@@ -27,17 +27,17 @@ Me gustan trabajar en proyectos desafiantes aportando mis conocimientos y aprend
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 -->
-<h1 align=center>¡Hello! I'm Abel Acevedo</h1>
+<h1 align=center>¡Abel Acevedo</h1>
 <h3 align="center">Java Backend Developer Spring Boot, agile methodologies jira and trello.</h3>
 
 
-<h3 align="left">How to reach me:</h3>
+<h3 align="left">Contactame:</h3>
 
 <p align="left">
 <a href="mailto: marzoa3581@gmail.com" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Gmail_%282015-2020%29.svg" alt="mail" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abel-fernando-acevedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-herrera-093" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
