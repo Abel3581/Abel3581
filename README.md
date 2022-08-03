@@ -10,7 +10,7 @@ Me gustan trabajar en proyectos desafiantes aportando mis conocimientos y aprend
 <!--[![CV Badge](https://img.shields.io/badge/-CV-red?style=flat-square&logo=cv&logoColor=white&link=https://abel3581.github.io/CV-FULL-STACK/)](https://abel3581.github.io/CV-FULL-STACK/)-->
 
 
-## ⚡ Technologies
+## ⚡ Tecnologias
 <!--
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](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?style=flat-square&logo=Python)
@@ -27,7 +27,7 @@ Me gustan trabajar en proyectos desafiantes aportando mis conocimientos y aprend
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 -->
-<h1 align=center>¡Abel Acevedo</h1>
+<h1 align=center>¡ Abel Acevedo !</h1>
 <h3 align="center">Java Backend Developer Spring Boot, agile methodologies jira and trello.</h3>
 
 
