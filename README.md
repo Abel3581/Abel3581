@@ -2,7 +2,7 @@
 
 Hola mi nombre es Abel, soy de Argentina BS AS, estudiande de Licenciatura en Sistemas en la [Universidad Nacional de General Sarmiento](https://www.ungs.edu.ar/). 
 Soy un desarrollador Back-End Java Spring Boot, con conocimientos en Html, JavaScript, Css3.
-Me gustan trabajar en proyectos desafiantes aportando mis conocimientos y aprendiendo al mismo tiempo.
+Me gusta trabajar en proyectos desafiantes aportando mis conocimientos y aprendiendo al mismo tiempo.
 
 [![Linkedin Badge](https://img.shields.io/badge/-AbelAcevedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abel-fernando-acevedo/)](https://www.linkedin.com/in/abel-fernando-acevedo/)
 [![Github Badge](https://img.shields.io/badge/-Abel3581-purple?style=flat-square&logo=github&logoColor=white&link=https://github.com/Abel3581)](https://github.com/Abel3581)
