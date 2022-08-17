@@ -60,5 +60,5 @@ Me gusta trabajar en proyectos desafiantes aportando mis conocimientos y aprendi
 
 
 <p align="center">
-  <img width="500"  src="yoda.gif">
+  <img width="400"  src="yoda.gif">
 </p>
