@@ -1,8 +1,8 @@
 ## ¡que bueno verte aquí! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px" height="40">
 
 Hola mi nombre es Abel, soy de Argentina BS AS, estudiande de Licenciatura en Sistemas en la [Universidad Nacional de General Sarmiento](https://www.ungs.edu.ar/). 
-Soy un desarrollador Back-End Java Spring Boot, con conocimientos en Html, JavaScript, Css3.
-Me gusta trabajar en proyectos desafiantes aportando mis conocimientos y aprendiendo al mismo tiempo.
+Soy un desarrollador Back-End Java Spring Boot con 2 años de experiencia desarrollando en equipo aplicaciones, a su ves cuento con conocimientos en Html5, JavaScript, Css3, boopstrap.
+Me gusta trabajar en proyectos desafiantes aportando mis conocimientos y aprendiendo al mismo tiempo, actualmente estoy buscando trabajo en empresas que desarrollen aplicaciones que resuelvan problemas de todo tipo.
 
 [![Linkedin Badge](https://img.shields.io/badge/-AbelAcevedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abel-fernando-acevedo/)](https://www.linkedin.com/in/abel-fernando-acevedo/)
 [![Github Badge](https://img.shields.io/badge/-Abel3581-purple?style=flat-square&logo=github&logoColor=white&link=https://github.com/Abel3581)](https://github.com/Abel3581)
