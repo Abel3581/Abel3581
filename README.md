@@ -1,4 +1,4 @@
-## ¡que bueno verte aquí! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px" height="40">
+## ¡Que bueno verte aquí! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px" height="40">
 
 Hola mi nombre es Abel, soy de Argentina BS AS, estudiande de Licenciatura en Sistemas en la [Universidad Nacional de General Sarmiento](https://www.ungs.edu.ar/). 
 Soy un desarrollador Back-End Java Spring Boot con 2 años de experiencia desarrollando en equipo aplicaciones, a su ves cuento con conocimientos en Html5, JavaScript, Css3, boopstrap.
