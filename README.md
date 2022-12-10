@@ -28,7 +28,7 @@ Me gusta trabajar en proyectos desafiantes aportando mis conocimientos y aprendi
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 -->
 <h1 align=center>¡ Abel Acevedo !</h1>
-<h3 align="center">Java Backend Developer Spring Boot, Service Rest, WebServices, Microservice.</h3>
+<h3 align="center">Java Backend Developer Spring Boot, Rest Service, WebServices, Microservice.</h3>
 
 
 <h3 align="left">Contactame:</h3>
