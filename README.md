@@ -1,8 +1,16 @@
-## ¡Que bueno verte aquí! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px" height="40">
+¡Hola! Soy Abel, un apasionado desarrollador con dos años de experiencia en Java Spring Boot como Back-End y unos meses de experiencia como Full Stack con Angular. Mi enfoque principal se centra en el Back-End, donde me siento más cómodo y seguro.
 
-Hola mi nombre es Abel, soy de Argentina BS AS, estudiande de Licenciatura en Sistemas en la [Universidad Nacional de General Sarmiento](https://www.ungs.edu.ar/). 
-Soy un desarrollador Back-End Java Spring Boot con 2 años de experiencia desarrollando en equipo aplicaciones, a su ves cuento con conocimientos en Html5, JavaScript, Css3, boopstrap.
-Me gusta trabajar en proyectos desafiantes aportando mis conocimientos y aprendiendo al mismo tiempo, actualmente estoy buscando trabajo en empresas que desarrollen aplicaciones que resuelvan problemas de todo tipo, y me encuentro aprendiendo microservicios.
+En el ámbito del Back-End, he trabajado con Java Spring Boot para desarrollar soluciones robustas y eficientes para diversos proyectos. En el Front-End, he tenido la oportunidad de trabajar con Angular y contribuir en la creación de interfaces de usuario atractivas y funcionales.
+
+Si bien mi fuerte y experiencia se encuentran en el Back-End, siempre estoy dispuesto a enfrentar nuevos desafíos y seguir aprendiendo en todas las áreas del desarrollo Full Stack.
+
+Estoy abierto a nuevas conexiones y oportunidades de colaboración en proyectos innovadores. Si deseas discutir cómo puedo contribuir a tu equipo o si tienes alguna pregunta sobre mi experiencia, no dudes en ponerse en contacto conmigo.
+
+¡Espero con ansias conectar contigo y seguir creciendo en esta emocionante industria tecnológica!
+
+Atentamente,
+
+ Abel
 
 [![Linkedin Badge](https://img.shields.io/badge/-AbelAcevedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abel-fernando-acevedo/)](https://www.linkedin.com/in/abel-fernando-acevedo/)
 [![Github Badge](https://img.shields.io/badge/-Abel3581-purple?style=flat-square&logo=github&logoColor=white&link=https://github.com/Abel3581)](https://github.com/Abel3581)
