@@ -62,6 +62,7 @@ Atentamente,
  </a>
   <a href="https://es.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-4.png" alt="javaScript" width="40" height="40"/></a>
   <a href="https://es.wikipedia.org/wiki/Gradle" target="_blank"><img src="https://www.eclipse.org/community/eclipse_newsletter/2015/may/images/gradlephant.png" alt="gradle" width="40" height="40"/></a>
+  <a href=""><img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png"alt="angular" width="40" height="40" /></a>
  
 
 </p>
