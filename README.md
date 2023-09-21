@@ -28,7 +28,7 @@ proyecto en el que participo.
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 -->
 <h1 align=center>¡ Abel Acevedo !</h1>
-<h3 align="center">Java Backend Developer Spring Boot, Rest Service, WebServices, Microservice.</h3>
+<h3 align="center">Programdor Java Spring Boot, Rest Service, WebServices, Microservic, Angular .</h3>
 
 
 <h3 align="left">Contactame:</h3>
