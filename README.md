@@ -1,7 +1,7 @@
 # 💫 Sobre mí:
 ¡Hola! Soy Abel Acevedo, un desarrollador full-stack con experiencia en tecnologías back-end y front-end. Estudiante de Licenciatura en Sistemas en la Universidad Nacional de General Sarmiento, me especializo en soluciones eficientes y escalables para diversas necesidades empresariales.
 
-He trabajado como programador Java en Tag Soluciones, No Country y Softtek, desarrollando arquitecturas monolíticas y microservicios con tecnologías como Java, Spring Boot, Quarkus y Angular, TypeScript. En proyectos como OSDE Cartilla Médica, implementé microservicios SOAP y RESTful, integrando sistemas externos como Mercado Pago y AWS.
+He trabajado como programador Java en Tag Soluciones, No Country y Softtek, desarrollando arquitecturas monolíticas y microservicios con tecnologías como Java, Spring Boot, Quarkus, Angular y TypeScript. En proyectos como OSDE Cartilla Médica, implementé microservicios SOAP y RESTful, integrando sistemas externos como Mercado Pago y AWS.
 
 Destaco por mi capacidad para colaborar en equipos ágiles bajo metodologías Scrum. Me mantengo actualizado mediante cursos y exploración de nuevas tecnologías.
 
