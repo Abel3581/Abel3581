@@ -5,7 +5,7 @@ He trabajado como programador Java en Tag Soluciones, No Country y Softtek, desa
 
 Destaco por mi capacidad para colaborar en equipos ágiles bajo metodologías Scrum. Me mantengo actualizado mediante cursos y exploración de nuevas tecnologías.
 
-En mi tiempo libre, disfruto explorando nuevas tecnologías y contribuyendo a la comunidad de desarrollo, compartiendo conocimientos y experiencias con colegas y estudiantes. Además, me encanta la música romántica de los 80 y 90. Desde pequeño, amo el deporte: hice atletismo desde los 10 hasta los 12 años y luego jugué al fútbol en equipos profesionales de AFA hasta los 22. Actualmente, sigo practicando deporte, lo cual me apasiona.
+En mi tiempo libre, disfruto explorando nuevas tecnologías y contribuyendo a la comunidad de desarrollo, compartiendo conocimientos y experiencias con colegas y estudiantes. Además, desde pequeño, amo el deporte: hice atletismo desde los 10 hasta los 12 años y luego jugué al fútbol en equipos profesionales de AFA hasta los 22. Actualmente, sigo practicando deporte, lo cual me apasiona.
 
 
 ## 🌐 Socials:
