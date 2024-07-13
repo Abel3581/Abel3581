@@ -2,7 +2,7 @@
 Desarrollador full-stack con experiencia en tecnologías back-end y front-end. Puedo ofrecer soluciones eficientes y escalables, habiendo trabajado en proyectos con Java, Spring Boot, Quarkus, Angular y TypeScript. Destaco por mi capacidad para colaborar en equipos ágiles bajo metodologías Scrum y resolver problemas complejos. Mi compromiso con el aprendizaje continuo y mi pasión por el deporte, que me ha inculcado disciplina y trabajo en equipo, me permiten aportar innovación y calidad a cualquier equipo de desarrollo.
 
 
-## 🌐 Socials:
+## 🌐 Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abel-fernando-acevedo/) 
 
 # 💻 Pila de tecnología:
