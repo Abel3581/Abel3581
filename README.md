@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-Desarrollador full-stack con experiencia en tecnologías back-end y front-end. Puedo ofrecer soluciones eficientes y escalables, habiendo trabajado en proyectos con Java, Spring Boot, Quarkus, Angular y TypeScript. Destaco por mi capacidad para colaborar en equipos ágiles bajo metodologías Scrum y resolver problemas complejos. Mi compromiso con el aprendizaje continuo y mi pasión por el deporte, que me ha inculcado disciplina y trabajo en equipo, me permiten aportar innovación y calidad a cualquier equipo de desarrollo.
+Desarrollador full-stack con experiencia en Java, Spring Boot, Quarkus, Angular y TypeScript. Me especializo en crear soluciones eficientes y escalables, adaptándome rápidamente a nuevas tecnologías. Soy resiliente, colaboro en equipos ágiles y resuelvo problemas complejos. Mi compromiso con el aprendizaje continuo y mi pasión por el deporte me han inculcado disciplina y trabajo en equipo.
 
 
 ## 🌐 Sociales:
