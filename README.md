@@ -5,6 +5,8 @@ Desarrollador full-stack con experiencia en Java, Spring Boot, Quarkus, Angular 
 ## 🌐 Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abel-fernando-acevedo/) 
 [![Credly](https://img.shields.io/badge/Credly-%23F24E1E.svg?logo=credly&logoColor=white)](https://www.credly.com/users/abel-acevedo/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/AbelFerAcevedo/)
+
 
 
 # 💻 Pila de tecnología:
