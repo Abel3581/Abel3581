@@ -33,6 +33,6 @@ Desarrollador full-stack con experiencia en Java, Spring Boot, Quarkus, Angular 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
   <a href="https://www.credly.com/badges/0b5ac6d0-0f15-4dc6-b2ec-d7c0e1b3dd9d/public_url" target="_blank">
-    <img src="https://github.com/user-attachments/assets/67264baf-6598-408c-8447-6dc27235e5ef" alt="aws-re-start-graduate" width="200"/>
+    <img src="https://github.com/user-attachments/assets/67264baf-6598-408c-8447-6dc27235e5ef" alt="aws-re-start-graduate" width="100"/>
   </a>
 </div>
