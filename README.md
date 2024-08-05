@@ -31,4 +31,4 @@ Desarrollador full-stack con experiencia en Java, Spring Boot, Quarkus, Angular 
 [![](https://visitcount.itsvg.in/api?id=Abel3581&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://github.com/user-attachments/assets/67264baf-6598-408c-8447-6dc27235e5ef" alt="aws-re-start-graduate" width="200"/>
+<img src="https://github.com/user-attachments/assets/67264baf-6598-408c-8447-6dc27235e5ef" alt="aws-re-start-graduate" width="150"/>
