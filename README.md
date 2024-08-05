@@ -26,7 +26,6 @@ Desarrollador full-stack con experiencia en Java, Spring Boot, Quarkus, Angular 
 ![](https://github-contributor-stats.vercel.app/api?username=Abel3581&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0b5ac6d0-0f15-4dc6-b2ec-d7c0e1b3dd9d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!--[![](https://visitcount.itsvg.in/api?id=Abel3581&icon=0&color=0)](https://visitcount.itsvg.in)<br/>-->
 [![](https://visitcount.itsvg.in/api?id=Abel3581&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
 
