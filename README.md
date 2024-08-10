@@ -15,11 +15,36 @@ Desarrollador full-stack con experiencia en Java, Spring Boot, Quarkus, Angular 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
+<!--
 # 📊 Estadísticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=Abel3581&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abel3581&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abel3581&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
+-->
+# 📊 Estadísticas de GitHub:
+![](https://github-readme-stats.vercel.app/api?username=Abel3581&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abel3581&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abel3581&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
+
+## 🏆 Trofeos de GitHub:
+![trophy](https://github-profile-trophy.vercel.app/?username=Abel3581&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+## 🌟 Badges:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+## 📈 Gráfico de Contribuciones:
+![](https://activity-graph.herokuapp.com/graph?username=Abel3581&theme=tokyonight&hide_border=false&area=true)
+
+## 💼 Proyectos Destacados:
+- [DeCamino](https://github.com/Abel3581/DeCamino): Aplicación web para fomentar el turismo en pueblos rurales.
+- [Medical Agenda App](https://github.com/Abel3581/medical-agenda-app): Aplicación para la gestión de citas y pacientes en un centro médico.
+
+## 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Abel3581/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 <!--
 ### 🔝 Repositorio más contribuido
