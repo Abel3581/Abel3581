@@ -1,4 +1,4 @@
-# 💫 Sobre mí: Lo que sueñas se puede desarrollar 💪
+# 💫 Sobre mí: Lo que sueñas se puede desarrollar 🌝
 Desarrollador full-stack con experiencia en Java, Spring Boot, Quarkus, Angular y TypeScript. Me especializo en crear soluciones eficientes y escalables, adaptándome rápidamente a nuevas tecnologías. Soy resiliente, colaboro en equipos ágiles y resuelvo problemas complejos. Mi compromiso con el aprendizaje continuo y mi pasión por el deporte me han inculcado disciplina y trabajo en equipo.
 
 
