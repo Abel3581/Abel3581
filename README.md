@@ -1,5 +1,5 @@
 # 💫 Lo que sueñas se puede desarrollar 🌝
-Desarrollador full-stack con experiencia en Java, Spring Boot, Quarkus, Angular y TypeScript. Me especializo en crear soluciones eficientes y escalables, adaptándome rápidamente a nuevas tecnologías. Soy resiliente, colaboro en equipos ágiles y resuelvo problemas complejos. Mi compromiso con el aprendizaje continuo y mi pasión por el deporte me han inculcado disciplina y trabajo en equipo.
+Programador Java, me especializo en crear soluciones eficientes y escalables, adaptándome rápidamente a nuevas tecnologías. Soy proactivo, resiliente, colaboro en equipos ágiles y resuelvo problemas complejos. Mantengo una actitud positiva ante los desafíos y siempre busco formas de mejorar tanto a nivel personal como profesional. Mi pasión por el deporte me ha enseñado la importancia de la disciplina, la perseverancia y el trabajo en equipo, lo que me convierte en un candidato ideal para cualquier proyecto o equipo.
 
 
 ## 🌐 Sociales:
