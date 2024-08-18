@@ -43,3 +43,8 @@ Programador Java, me especializo en crear soluciones eficientes y escalables, ad
     <img src="https://github.com/user-attachments/assets/67264baf-6598-408c-8447-6dc27235e5ef" alt="aws-re-start-graduate" width="100"/>
   </a>
 </div>
+
+## Avance de mi proyecto actual
+
+¡Mira un avance de mi proyecto actual en YouTube! [Ver video](https://www.youtube.com/watch?v=ho86IO3kVl0)
+
