@@ -29,7 +29,7 @@ Programador Java, me especializo en crear soluciones eficientes y escalables, ad
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abel3581&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 
-**Nota:** No es posible detectar directamente quién visita tu perfil de GitHub, ya que la plataforma no proporciona esta funcionalidad para proteger la privacidad de los usuarios. Sin embargo, puedes obtener información general sobre la cantidad de visitas a tus repositorios a través de [GitHub Insights](https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository/about-insights) o configurar [Google Analytics](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/using-google-analytics) si tienes un sitio web en GitHub Pages asociado a tu perfil.
+
 
 
 <!--
