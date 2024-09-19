@@ -51,5 +51,5 @@
 
 ## Avance de mi proyecto actual
 
-¡Mira un avance de mi proyecto actual en YouTube! [Ver video](https://www.youtube.com/watch?v=ho86IO3kVl0)
+¡Mira un avance de mi proyecto actual en YouTube! [Ver video](https://youtu.be/Q9G1l_3Qg7A)
 
