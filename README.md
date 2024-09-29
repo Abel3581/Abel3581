@@ -57,8 +57,6 @@
 
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Abel3581/count.svg?"/>
-</div>
+
 
 
