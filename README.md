@@ -53,3 +53,13 @@
 
 ¡Mira un avance de mi proyecto actual en YouTube! [Ver video](https://youtu.be/Q9G1l_3Qg7A)
 
+<img src="https://raw.githubusercontent.com/Abel3581/Abel3581/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Abel3581/count.svg?"  />
+</div>
+
+###
+
