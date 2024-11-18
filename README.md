@@ -49,7 +49,7 @@
   </a>
 </div>
 
-## Avance de mi proyecto actual
+## Avance de mi proyecto actual actualizado 18-11-2024.
 
-¡Mira un avance de mi proyecto actual en YouTube! [Ver video](https://youtu.be/Q9G1l_3Qg7A)
+¡Mira un avance de mi proyecto actual en YouTube! [Ver video](https://www.youtube.com/playlist?list=PLyTP0g7ZIqUZ3xrWVuhGMFTN79a3AaCcm)
 
