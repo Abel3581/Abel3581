@@ -49,7 +49,7 @@
   </a>
 </div>
 
-## Avance de mi proyecto actual actualizado 18-11-2024.
+## Avance de mi proyecto actual actualizado 9-11-2025.
 
-¡Mira un avance de mi proyecto actual en YouTube! [Ver video](https://www.youtube.com/playlist?list=PLyTP0g7ZIqUZ3xrWVuhGMFTN79a3AaCcm)
+Deploy Prod: https://vendepro.com.ar/start
 
