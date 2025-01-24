@@ -29,7 +29,8 @@ Desarrollador Java con experiencia en todo el ciclo de vida de aplicaciones web,
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abel3581&theme=tokyonight&hide_border=false)
 -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abel3581&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/? -->
+username=Abel3581&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 
 
 
@@ -38,7 +39,7 @@ Desarrollador Java con experiencia en todo el ciclo de vida de aplicaciones web,
 ### 🔝 Repositorio más contribuido
 ![](https://github-contributor-stats.vercel.app/api?username=Abel3581&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
----
+
 
 [![](https://visitcount.itsvg.in/api?id=Abel3581&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
 <!--[![](https://visitcount.itsvg.in/api?id=Abel3581&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)-->
@@ -50,7 +51,7 @@ Desarrollador Java con experiencia en todo el ciclo de vida de aplicaciones web,
   </a>
 </div>
 
-## Avance de mi proyecto actual actualizado 9-11-2025.
+## Avance de mi proyecto actual.
 
 Deploy Prod: https://vendepro.com.ar/start
 
