@@ -1,8 +1,5 @@
 # 🌌🌟 Lo que sueñas se puede desarrollar 🌙
-🌝 Desarrollador Java con experiencia en todo el ciclo de vida de aplicaciones web, desde la concepción hasta
-el despliegue. Proactivo, adaptable y resiliente, destaco en equipos ágiles y en la resolución de problemas
-complejos. Mi disciplina y trabajo en equipo, reforzados por mi pasión por el deporte, me impulsan a
-superar desafíos. 
+Desarrollador Java con experiencia en todo el ciclo de vida de aplicaciones web, desde la concepción hasta el despliegue en producción. Tengo la capacidad de crear aplicaciones web completas de manera independiente, desde el backend hasta el frontend, asegurando soluciones robustas y escalables. Soy proactivo, adaptable y resiliente, destacando en la resolución de problemas complejos y en entornos ágiles. Mi pasión por el deporte me ha enseñado disciplina y trabajo en equipo, cualidades que aplico para superar desafíos.
 
 
 
@@ -19,18 +16,19 @@ superar desafíos.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-<!--
+
 # 📊 Estadísticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=Abel3581&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abel3581&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abel3581&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
--->
+
+<!--
 # 📊 Estadísticas de GitHub:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abel3581&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abel3581&theme=tokyonight&hide_border=false)
-
+-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abel3581&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 
 
