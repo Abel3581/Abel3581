@@ -29,10 +29,6 @@ Desarrollador Java con experiencia en todo el ciclo de vida de aplicaciones web,
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abel3581&theme=tokyonight&hide_border=false)
 -->
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/? -->
-username=Abel3581&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
-
-
 
 
 <!--
