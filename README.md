@@ -1,5 +1,8 @@
 # 🌌🌟 Lo que sueñas se puede desarrollar 🌙
-🌝 **Programador Java**, me especializo en crear soluciones eficientes y escalables, adaptándome rápidamente a nuevas tecnologías. Soy proactivo, resiliente, colaboro en equipos ágiles y resuelvo problemas complejos. Mantengo una actitud positiva ante los desafíos y siempre busco formas de mejorar tanto a nivel personal como profesional. Mi pasión por el deporte me ha enseñado la importancia de la disciplina, la perseverancia y el trabajo en equipo, lo que me convierte en un candidato ideal para cualquier proyecto o equipo.
+🌝 Desarrollador Java con experiencia en todo el ciclo de vida de aplicaciones web, desde la concepción hasta
+el despliegue. Proactivo, adaptable y resiliente, destaco en equipos ágiles y en la resolución de problemas
+complejos. Mi disciplina y trabajo en equipo, reforzados por mi pasión por el deporte, me impulsan a
+superar desafíos. Busco una oportunidad estable para crecer y aportar valor a largo plazo.
 
 
 
