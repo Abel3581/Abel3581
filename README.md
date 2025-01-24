@@ -2,7 +2,7 @@
 🌝 Desarrollador Java con experiencia en todo el ciclo de vida de aplicaciones web, desde la concepción hasta
 el despliegue. Proactivo, adaptable y resiliente, destaco en equipos ágiles y en la resolución de problemas
 complejos. Mi disciplina y trabajo en equipo, reforzados por mi pasión por el deporte, me impulsan a
-superar desafíos. Busco una oportunidad estable para crecer y aportar valor a largo plazo.
+superar desafíos. 
 
 
 
