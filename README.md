@@ -1,5 +1,5 @@
 # 🌌🌟 Lo que sueñas se puede desarrollar 🌙
-Desarrollador Java con experiencia en todo el ciclo de vida de aplicaciones web, desde la concepción hasta el despliegue en producción. Tengo la capacidad de crear aplicaciones web completas de manera independiente, desde el backend hasta el frontend, asegurando soluciones robustas y escalables. Soy proactivo, adaptable y resiliente, destacando en la resolución de problemas complejos y en entornos ágiles. Mi pasión por el deporte me ha enseñado disciplina y trabajo en equipo, cualidades que aplico para superar desafíos.
+Desarrollador Java con experiencia en todo el ciclo de vida de aplicaciones web, desde la concepción hasta el despliegue en producción. Tengo la capacidad de crear aplicaciones web completas de manera independiente, desde el backend hasta el frontend, asegurando soluciones robustas y escalables. Soy proactivo, adaptable y resiliente, destacando en la resolución de problemas complejos y en entornos ágiles.
 
 
 
@@ -47,7 +47,10 @@ Desarrollador Java con experiencia en todo el ciclo de vida de aplicaciones web,
   </a>
 </div>
 
-## Avance de mi proyecto actual.
+### Deploy en Producción
+### Uso Actual
+
+Actualmente, la aplicación está en uso por **dos clientes**
 
 Deploy Prod: https://vendepro.com.ar/start
 
