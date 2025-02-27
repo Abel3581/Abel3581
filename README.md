@@ -1,7 +1,5 @@
-# 🌌🌟 Lo que sueñas se puede desarrollar 🌙
-Desarrollador Java con experiencia en todo el ciclo de vida de aplicaciones web, desde la concepción hasta el despliegue en producción. Tengo la capacidad de crear aplicaciones web completas de manera independiente, desde el backend hasta el frontend, asegurando soluciones robustas y escalables. Soy proactivo, adaptable y resiliente, destacando en la resolución de problemas complejos y en entornos ágiles.
-
-
+🌟 Innovación y Desarrollo a la Vanguardia 🌌
+Desarrollador Java con 6 años de experiencia en el ciclo completo de aplicaciones web, tanto en front-end como back-end. Proactivo, adaptable y resiliente, destaco en equipos ágiles y en la resolución de problemas complejos. Busco una oportunidad estable para seguir creciendo y aportar valor.
 
 ## 🌐 Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-fernando-acevedo/) 
