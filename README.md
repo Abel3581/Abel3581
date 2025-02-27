@@ -1,4 +1,5 @@
-🌟 Innovación y Desarrollo a la Vanguardia 🌌
+###🌟 Innovación y Desarrollo a la Vanguardia 🌌
+
 Desarrollador Java con 6 años de experiencia en el ciclo completo de aplicaciones web, tanto en front-end como back-end. Proactivo, adaptable y resiliente, destaco en equipos ágiles y en la resolución de problemas complejos. Busco una oportunidad estable para seguir creciendo y aportar valor.
 
 ## 🌐 Sociales:
