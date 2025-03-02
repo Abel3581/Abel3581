@@ -54,17 +54,16 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
 </div>
 
 
-## Proyecto
+## 🚀 Proyecto  
 
-### Deploy en Producción
+### 🌍 Deploy en Producción  
+🔗 **Accede a la aplicación aquí:** [VendePro](https://vendepro.com.ar/start)  
 
-Puedes acceder al deploy de producción aquí: [https://vendepro.com.ar/start](https://vendepro.com.ar/start)
+### 📌 Uso Actual  
+✅ La aplicación está en funcionamiento y es utilizada por **dos clientes**.  
 
-### Uso Actual
-
-Actualmente, la aplicación está en uso por **dos clientes**.
-
-Esta es mi última aplicación en producción, mientras mantengo esta, estoy desarrollando otra para el área de salud.
+📢 Mientras mantengo esta plataforma, estoy desarrollando una nueva aplicación enfocada en el área de salud.  
 
 ---
+
 
