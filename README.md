@@ -57,14 +57,21 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
 ## 🚀 Proyecto  
 
 ### 🌍 Deploy en Producción  
-🔗 **Accede a la aplicación aquí:** [VendePro](https://vendepro.com.ar/start)  
+🔗 **Accede a las aplicaciones:**  
+- [VendePro](https://vendepro.com.ar/start)  
+- [Tudoccerca](https://tudoccerca.com.ar)  
+
+---
 
 ### 📌 Uso Actual  
-✅ La aplicación está en funcionamiento y es utilizada por **dos clientes**.  
+✅ Ambas aplicaciones están en funcionamiento y cuentan con usuarios activos:  
+- **VendePro:** actualmente con **dos clientes**.  
+- **Tudoccerca:** completamente desarrollada y operativa.
 
-### 📢 Mientras mantengo esta plataforma, estoy desarrollando una nueva aplicación enfocada en el área de salud.  
-🔗 **Accede a la aplicación aquí:** [Tudoccerca](https://tudoccerca.com.ar)  
 ---
+
+### 📢 Próximos proyectos  
+Estoy desarrollando una nueva aplicación enfocada en el área de salud, que será lanzada próximamente.
 
 ### Cv en formato JSON.
 
