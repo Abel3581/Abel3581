@@ -63,11 +63,12 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
 ✅ La aplicación está en funcionamiento y es utilizada por **dos clientes**.  
 
 ### 📢 Mientras mantengo esta plataforma, estoy desarrollando una nueva aplicación enfocada en el área de salud.  
-🔗 **Accede a la aplicación aquí:** [Tudoccerca](https://tudocerca.com.ar.com.ar/start)  
+🔗 **Accede a la aplicación aquí:** [Tudoccerca](https://tudoccerca.com.ar)  
 ---
 
 ### Cv en formato JSON.
 
+```json
 {
   "nombre": "Abel Acevedo",
   "informacion_contacto": {
@@ -76,56 +77,69 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
     "linkedin": "https://www.linkedin.com/in/abel-fernando-acevedo/",
     "github": "https://github.com/Abel3581"
   },
-  "objetivo": "Desarrollador Java con 6 años de experiencia en aplicaciones web. Puedo crear aplicaciones completas de forma independiente, desde el diseño hasta el despliegue. Busco una empresa donde pueda crecer profesionalmente, creando soluciones que simplifiquen procesos y mejoren la vida de las personas.",
+  "objetivo": "Desarrollador Java con 6 años de experiencia en aplicaciones web. Puedo crear aplicaciones completas de forma independiente, desde el diseño hasta el despliegue. Busco 
+  una empresa donde pueda crecer profesionalmente, creando soluciones que simplifiquen procesos y mejoren la vida de las personas.",
   "experiencia_laboral": [
     {
       "puesto": "Desarrollador Java Full Stack",
       "empresa": "Independiente",
-      "descripcion": "Trabajo de forma independiente como desarrollador full stack, creando soluciones completas desde cero con Java, Spring Boot, Angular y TypeScript. Me encargo de todo el ciclo de desarrollo: desde el diseño de la arquitectura y la implementación de funcionalidades, hasta el despliegue en producción y el soporte técnico.",
+      "descripcion": "Trabajo de forma independiente como desarrollador full stack, creando soluciones completas desde cero con Java, Spring Boot, Angular y TypeScript. Me encargo de 
+      todo el ciclo de desarrollo: desde el diseño de la arquitectura y la implementación de funcionalidades, hasta el despliegue en producción y el soporte técnico.",
       "proyecto actual": "🌐 Tu doc cerca: https://tudocerca.com.ar",
       "fechas": "08/2024 - Actualidad"
     },
     {
       "puesto": "Programador Back-end",
       "empresa": "Igrowker",
-      "descripcion": "Desarrollo de la aplicación desde cero. Diseño de arquitectura en capas y modelado de esquemas. Integración de la pasarela de pagos Stripe. Implementación de OpenStreetMap.",
+      "descripcion": "Desarrollo de la aplicación desde cero. Diseño de arquitectura en capas y modelado de esquemas. Integración de la pasarela de pagos Stripe. Implementación de 
+      OpenStreetMap.",
       "fechas": "05/2024 - 08/2024"
     },
     {
       "puesto": "Desarrollador Java Full Stack",
       "empresa": "Tag Soluciones",
-      "descripcion": "Desarrollo de software adaptado a requerimientos específicos del cliente. Modelado y creación de capas de desarrollo. Implementación de arquitectura monolítica y microservicios API Restful. Desarrollo de backend y frontend utilizando Java y Angular. Participación en reuniones diarias de Scrum, retrospectivas y planificación de sprints.",
+      "descripcion": "Desarrollo de software adaptado a requerimientos específicos del cliente. Modelado y creación de capas de desarrollo. Implementación de arquitectura monolítica y 
+      microservicios API Restful. Desarrollo de backend y frontend utilizando Java y Angular. Participación en reuniones diarias de Scrum, retrospectivas y planificación de sprints.",
       "fechas": "01/2021 - 05/2024"
     },
     {
       "puesto": "Desarrollador Java Full Stack",
       "empresa": "No Country",
-      "descripcion": "Desarrollo de componentes, modelos, guards, interceptores e servicios. Implementación de endpoints y consumo de servicios externos. Integraciones exitosas con Mercado Pago y almacenamiento en AWS S3. Modelado UML y configuración de seguridad con tokens JWT. Implementación de patrones de diseño y arquitecturas API RESTful. 10 MVP Terminados.",
+      "descripcion": "Desarrollo de componentes, modelos, guards, interceptores e servicios. Implementación de endpoints y consumo de servicios externos. Integraciones exitosas con 
+      Mercado Pago y almacenamiento en AWS S3. Modelado UML y configuración de seguridad con tokens JWT. Implementación de patrones de diseño y arquitecturas API RESTful. 10 MVP 
+      Terminados.",
       "fechas": "03/2022 - 10/2023"
     },
     {
       "puesto": "Desarrollador Java Back End",
       "empresa": "Softtek",
-      "descripcion": "Desarrollo y mantenimiento de microservicios, SOAP y Quarkus para el proyecto OSDE Cartilla Médica, optimizando la disponibilidad y escalabilidad del sistema. Implementación de mejoras en el consumo de APIs y optimización de consultas a bases de datos, reduciendo tiempos de respuesta. Automatización de pruebas unitarias con JUnit y Mockito, mejorando la calidad del código y la cobertura de tests. Aseguramiento de la entrega puntual de tareas asignadas, cumpliendo con estándares de calidad y buenas prácticas de desarrollo. Participación en reuniones diarias de Scrum, retrospectivas y planificación de sprints.",
+      "descripcion": "Desarrollo y mantenimiento de microservicios, SOAP y Quarkus para el proyecto OSDE Cartilla Médica, optimizando la disponibilidad y escalabilidad del sistema. 
+      Implementación de mejoras en el consumo de APIs y optimización de consultas a bases de datos, reduciendo tiempos de respuesta. Automatización de pruebas unitarias con JUnit y 
+      Mockito, mejorando la calidad del código y la cobertura de tests. Aseguramiento de la entrega puntual de tareas asignadas, cumpliendo con estándares de calidad y buenas prácticas 
+      de desarrollo. Participación en reuniones diarias de Scrum, retrospectivas y planificación de sprints.",
       "proyecto en el que trabajé": "🌐OSDE: https://www.osde.com.ar",
       "fechas": "02/2023 – 08/2023"
     },
     {
       "puesto": "Desarrollador Java Back End",
       "empresa": "Semillero Latam",
-      "descripcion": "Desarrollo de nuevas funcionalidades y gestión del envío de correos electrónicos. Procesamiento de pagos y operaciones CRUD en arquitectura WebServices. Implementación de Mercado Pago y entrega oportuna de tickets asignados. Participación en reuniones diarias de Scrum.",
+      "descripcion": "Desarrollo de nuevas funcionalidades y gestión del envío de correos electrónicos. Procesamiento de pagos y operaciones CRUD en arquitectura WebServices. 
+      Implementación de Mercado Pago y entrega oportuna de tickets asignados. Participación en reuniones diarias de Scrum.",
       "fechas": "03/2022 – 02/2023"
     },
     {
       "puesto": "Desarrollador Java Back End",
       "empresa": "Alkemy",
-      "descripcion": "Desarrolle una API RESTful para una ONG utilizando Java Spring Boot. Diseñe arquitectura en capas Controller, Repository y Service, y creación de endpoints. Desarrolle la seguridad con Spring Security y utilice AWS S3 para el guardado de imágenes.",
+      "descripcion": "Desarrolle una API RESTful para una ONG utilizando Java Spring Boot. Diseñe arquitectura en capas Controller, Repository y Service, y creación de endpoints. 
+      Desarrolle la seguridad con Spring Security y utilice AWS S3 para el guardado de imágenes.",
       "fechas": "11/2021 – 02/2022"
     },
     {
       "puesto": "Desarrollador Java",
       "empresa": "Dafiti",
-      "descripcion": "Desarrollo y mantenimiento de sistemas monolíticos y microservicios con Java y Spring Boot. Implementación de servicios RESTful para optimización de gestión de inventarios y pedidos. Participación en la migración a microservicios, mejorando tiempos de respuesta y despliegues. Diseño de pruebas unitarias e integración, optimización de bases de datos y caching. Resolución de problemas en producción para mejorar la estabilidad del sistema.",
+      "descripcion": "Desarrollo y mantenimiento de sistemas monolíticos y microservicios con Java y Spring Boot. Implementación de servicios RESTful para optimización de gestión de 
+      inventarios y pedidos. Participación en la migración a microservicios, mejorando tiempos de respuesta y despliegues. Diseño de pruebas unitarias e integración, optimización de 
+      bases de datos y caching. Resolución de problemas en producción para mejorar la estabilidad del sistema.",
       "fechas": "12/2018 – 12/2021"
     },
     {
@@ -144,7 +158,8 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
     {
       "titulo": "AWS re/Start, Soluciones en la nube",
       "certificacion": "Certificación oficial",
-      "descripcion": "Fundamentos de programación, estructuras de datos y bases de datos. Desarrollo de pensamiento lógico y resolución de problemas. Trabajo en equipo y metodologías ágiles. Formación especializada para roles como soporte técnico, administración de sistemas, automatización en la nube e ingeniería de infraestructuras.",
+      "descripcion": "Fundamentos de programación, estructuras de datos y bases de datos. Desarrollo de pensamiento lógico y resolución de problemas. Trabajo en equipo y metodologías   
+      ágiles. Formación especializada para roles como soporte técnico, administración de sistemas, automatización en la nube e ingeniería de infraestructuras.",
       "certificado": "🌐 AWS re/Start Graduate",
       "fechas": "2023"
     },
@@ -245,5 +260,6 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
     "ingles": "A2"
   }
 }
+
 
 
