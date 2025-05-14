@@ -70,10 +70,7 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
 
 ---
 
-### 📢 Próximos proyectos  
-Estoy desarrollando una nueva aplicación enfocada en el área de salud, que será lanzada próximamente.
-
-### Cv en formato JSON.
+### CV FORMATO JSON.
 
 ```json
 {
