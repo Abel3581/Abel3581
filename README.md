@@ -63,7 +63,187 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
 ✅ La aplicación está en funcionamiento y es utilizada por **dos clientes**.  
 
 ### 📢 Mientras mantengo esta plataforma, estoy desarrollando una nueva aplicación enfocada en el área de salud.  
-🔗 **Accede a la aplicación aquí:** [Tu doc cerca](https://tudocerca.com.ar.com.ar/start)  
+🔗 **Accede a la aplicación aquí:** [Tudoccerca](https://tudocerca.com.ar.com.ar/start)  
 ---
+
+### Cv en formato JSON.
+
+{
+  "nombre": "Abel Acevedo",
+  "informacion_contacto": {
+    "telefono": "1170197183",
+    "email": "abel.acevedo.3581@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/abel-fernando-acevedo/",
+    "github": "https://github.com/Abel3581"
+  },
+  "objetivo": "Desarrollador Java con 6 años de experiencia en aplicaciones web. Puedo crear aplicaciones completas de forma independiente, desde el diseño hasta el despliegue. Busco una empresa donde pueda crecer profesionalmente, creando soluciones que simplifiquen procesos y mejoren la vida de las personas.",
+  "experiencia_laboral": [
+    {
+      "puesto": "Desarrollador Java Full Stack",
+      "empresa": "Independiente",
+      "descripcion": "Trabajo de forma independiente como desarrollador full stack, creando soluciones completas desde cero con Java, Spring Boot, Angular y TypeScript. Me encargo de todo el ciclo de desarrollo: desde el diseño de la arquitectura y la implementación de funcionalidades, hasta el despliegue en producción y el soporte técnico.",
+      "proyecto actual": "🌐 Tu doc cerca: https://tudocerca.com.ar",
+      "fechas": "08/2024 - Actualidad"
+    },
+    {
+      "puesto": "Programador Back-end",
+      "empresa": "Igrowker",
+      "descripcion": "Desarrollo de la aplicación desde cero. Diseño de arquitectura en capas y modelado de esquemas. Integración de la pasarela de pagos Stripe. Implementación de OpenStreetMap.",
+      "fechas": "05/2024 - 08/2024"
+    },
+    {
+      "puesto": "Desarrollador Java Full Stack",
+      "empresa": "Tag Soluciones",
+      "descripcion": "Desarrollo de software adaptado a requerimientos específicos del cliente. Modelado y creación de capas de desarrollo. Implementación de arquitectura monolítica y microservicios API Restful. Desarrollo de backend y frontend utilizando Java y Angular. Participación en reuniones diarias de Scrum, retrospectivas y planificación de sprints.",
+      "fechas": "01/2021 - 05/2024"
+    },
+    {
+      "puesto": "Desarrollador Java Full Stack",
+      "empresa": "No Country",
+      "descripcion": "Desarrollo de componentes, modelos, guards, interceptores e servicios. Implementación de endpoints y consumo de servicios externos. Integraciones exitosas con Mercado Pago y almacenamiento en AWS S3. Modelado UML y configuración de seguridad con tokens JWT. Implementación de patrones de diseño y arquitecturas API RESTful. 10 MVP Terminados.",
+      "fechas": "03/2022 - 10/2023"
+    },
+    {
+      "puesto": "Desarrollador Java Back End",
+      "empresa": "Softtek",
+      "descripcion": "Desarrollo y mantenimiento de microservicios, SOAP y Quarkus para el proyecto OSDE Cartilla Médica, optimizando la disponibilidad y escalabilidad del sistema. Implementación de mejoras en el consumo de APIs y optimización de consultas a bases de datos, reduciendo tiempos de respuesta. Automatización de pruebas unitarias con JUnit y Mockito, mejorando la calidad del código y la cobertura de tests. Aseguramiento de la entrega puntual de tareas asignadas, cumpliendo con estándares de calidad y buenas prácticas de desarrollo. Participación en reuniones diarias de Scrum, retrospectivas y planificación de sprints.",
+      "proyecto en el que trabajé": "🌐OSDE: https://www.osde.com.ar",
+      "fechas": "02/2023 – 08/2023"
+    },
+    {
+      "puesto": "Desarrollador Java Back End",
+      "empresa": "Semillero Latam",
+      "descripcion": "Desarrollo de nuevas funcionalidades y gestión del envío de correos electrónicos. Procesamiento de pagos y operaciones CRUD en arquitectura WebServices. Implementación de Mercado Pago y entrega oportuna de tickets asignados. Participación en reuniones diarias de Scrum.",
+      "fechas": "03/2022 – 02/2023"
+    },
+    {
+      "puesto": "Desarrollador Java Back End",
+      "empresa": "Alkemy",
+      "descripcion": "Desarrolle una API RESTful para una ONG utilizando Java Spring Boot. Diseñe arquitectura en capas Controller, Repository y Service, y creación de endpoints. Desarrolle la seguridad con Spring Security y utilice AWS S3 para el guardado de imágenes.",
+      "fechas": "11/2021 – 02/2022"
+    },
+    {
+      "puesto": "Desarrollador Java",
+      "empresa": "Dafiti",
+      "descripcion": "Desarrollo y mantenimiento de sistemas monolíticos y microservicios con Java y Spring Boot. Implementación de servicios RESTful para optimización de gestión de inventarios y pedidos. Participación en la migración a microservicios, mejorando tiempos de respuesta y despliegues. Diseño de pruebas unitarias e integración, optimización de bases de datos y caching. Resolución de problemas en producción para mejorar la estabilidad del sistema.",
+      "fechas": "12/2018 – 12/2021"
+    },
+    {
+      "puesto": "Secretario Administrativo",
+      "empresa": "PAMI",
+      "descripcion": "Coordinación de citas médicas, manejo de recetas electrónicas y data entry. Optimización de procedimientos administrativos, mejorando eficiencia operativa.",
+      "fechas": "01/2010 – 10/2018"
+    }
+  ],
+  "educacion": [
+    {
+      "titulo": "Licenciatura en Sistemas",
+      "institucion": "Universidad Nacional de General Sarmiento",
+      "fechas": "2018 - Actualidad"
+    },
+    {
+      "titulo": "AWS re/Start, Soluciones en la nube",
+      "certificacion": "Certificación oficial",
+      "descripcion": "Fundamentos de programación, estructuras de datos y bases de datos. Desarrollo de pensamiento lógico y resolución de problemas. Trabajo en equipo y metodologías ágiles. Formación especializada para roles como soporte técnico, administración de sistemas, automatización en la nube e ingeniería de infraestructuras.",
+      "certificado": "🌐 AWS re/Start Graduate",
+      "fechas": "2023"
+    },
+    {
+      "titulo": "Bootcamp Java Spring Boot (100 hs)",
+      "institucion": "Besysoft Pilar Bs As",
+      "fechas": "2023"
+    },
+    {
+      "titulo": "Aceleración en Java Job-Ready (100 hs)",
+      "institucion": "Alkemy Academy",
+      "fechas": "2021"
+    },
+    {
+      "titulo": "Programación Web Full Stack con Java (100 hs)",
+      "institucion": "Polotic Misiones",
+      "fechas": "2020"
+    },
+    {
+      "titulo": "Programación Web HTML, CSS, JavaScript y PHP",
+      "institucion": "Potrero Digital & Centro Universitario Vicente López",
+      "fechas": "2019"
+    }
+  ],
+  "habilidades_tecnicas": {
+    "front_end": {
+      "HTML": "+4",
+      "CSS": "+4",
+      "JavaScript": "+2",
+      "TypeScript": "+4",
+      "Angular": "+4",
+      "Tailwind_CSS": "+1",
+      "Bootstrap": "+4",
+      "Flowbite": "+2",
+      "NG-ZORRO": "+2",
+      "Angular_Material": "+4"
+    },
+    "back_end": {
+      "Java": "+6",
+      "Python": "+1",
+      "Spring_Boot": "+6",
+      "Spring_Security": "+6",
+      "Quarkus": "+6m",
+      "JPA": "+6",
+      "Hibernate": "+6",
+      "Maven": "+6",
+      "Gradle": "+6",
+      "JPQL": "+6"
+    },
+    "arquitectura": {
+      "Microservicios": "+3",
+      "Monolítica": "+6",
+      "API_RESTful": "+6",
+      "SOAP": "+6m",
+      "Web_Service": "+6m",
+      "Arquitectura_Desacoplada": "+6"
+    },
+    "bases_de_datos": {
+      "MySQL": "+6",
+      "PostgreSQL": "+4",
+      "MongoDB": "+1",
+      "SQL_Server": "+2",
+      "Oracle": "+1"
+    },
+    "testing_metodologias": [
+      "JUnit",
+      "Mockito",
+      "Postman",
+      "Swagger",
+      "GIT",
+      "GitFlow",
+      "Scrum",
+      "DevOps Pipelines CI/CD",
+      "Test de Integración"
+    ],
+    "contenedores_orquestacion": [
+      "Docker (imágenes, Docker Compose, gestión de contenedores)"
+    ],
+    "programacion_mensajeria": [
+      "Programación Orientada a Objetos (POO)",
+      "Programación Funcional (Java Streams, Lambdas)",
+      "Mensajería Asíncrona (Apache Kafka, RabbitMQ)",
+      "Serialización de Datos (JSON, XML, YAML)",
+      "DTOs y Mapeo de Objetos (MapStruct, ModelMapper, Manual)"
+    ],
+    "cloud_servicios_en_la_nube": [
+      "Google Cloud Platform (GCP)",
+      "Amazon Web Services (AWS)",
+      "Despliegue Distribuido"
+    ]
+  },
+  "habilidades_blandas": {
+    "adaptabilidad": true,
+    "resiliencia": true,
+    "trabajo en equipo": true
+  },
+  "idiomas": {
+    "ingles": "A2"
+  }
+}
 
 
