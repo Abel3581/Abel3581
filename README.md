@@ -167,7 +167,7 @@ Estoy desarrollando una nueva aplicación enfocada en el área de salud, que ser
       "certificacion": "Certificación oficial",
       "descripcion": "Fundamentos de programación, estructuras de datos y bases de datos. Desarrollo de pensamiento lógico y resolución de problemas. Trabajo en equipo y metodologías   
       ágiles. Formación especializada para roles como soporte técnico, administración de sistemas, automatización en la nube e ingeniería de infraestructuras.",
-      "certificado": "🌐 AWS re/Start Graduate",
+      "certificado": "🌐 AWS re/Start Graduate: https://www.credly.com/badges/0b5ac6d0-0f15-4dc6-b2ec-d7c0e1b3dd9d/public_url",
       "fechas": "2023"
     },
     {
