@@ -69,6 +69,40 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
 - **Tudoccerca:** completamente desarrollada y operativa.
 
 ---
+# 🚀 Nuevo proyecto en marcha: E-commerce escalable para negocios modernos
+
+📅 *Inicio: 27 de mayo de 2025*
+
+Hoy empiezo a trabajar en un nuevo desarrollo que me entusiasma mucho: una aplicación **e-commerce completa**, pensada para que cualquier negocio pueda vender online con su propia tienda personalizada.
+
+---
+
+## 🛠️ Stack tecnológico
+
+- ✅ **Angular 17** (Frontend)
+- ✅ **Spring Boot** (Backend)
+- ✅ **Mercado Pago** (Integración de pagos)
+
+---
+
+## 🎯 Objetivo del proyecto
+
+Crear una **aplicación e-commerce vendible por unidad**, donde cada cliente pueda tener su propio entorno personalizado con:
+
+- 🛒 Panel de administración
+- 📦 Gestión de productos
+- 👥 Gestión de clientes
+- 📑 Seguimiento de pedidos
+- 💳 Pagos integrados con Mercado Pago
+
+---
+
+💡 El foco está en la **escalabilidad**, la **calidad del código** y el uso de **buenas prácticas de desarrollo**, para facilitar tanto la venta por unidad como el mantenimiento a largo plazo.
+
+---
+
+¡Pronto más avances! 💼🔥
+
 
 ### CV FORMATO JSON.
 
