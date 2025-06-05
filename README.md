@@ -63,10 +63,15 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
 
 ---
 
-### 📌 Uso Actual  
-✅ Ambas aplicaciones están en funcionamiento y cuentan con usuarios activos:  
-- **VendePro:** actualmente con **dos clientes**.  
-- **Tudoccerca:** completamente desarrollada y operativa.
+### 📌 Uso Actual
+
+✅ Ambas aplicaciones SaaS se encuentran actualmente en funcionamiento y con usuarios activos:
+
+- **VendePro:** Acceso privado, disponible exclusivamente para el equipo técnico.  
+- **Tudoccerca:** Completamente desarrollada, operativa y con acceso privado para técnicos.
+
+> 🔒 *Los repositorios de ambas aplicaciones son privados y están habilitados solo para revisión por parte del equipo técnico.*
+
 
 ---
 # 🚀 Nuevo proyecto en marcha: E-commerce escalable para negocios modernos
