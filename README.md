@@ -145,8 +145,8 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
 
 💰 Precio del código
 
--- El código completo del e-commerce está disponible por $5000.
+- El código completo del e-commerce está disponible por $5000.
 
--- Próximamente voy a publicar un repositorio público con todas las funcionalidades documentadas, y comenzaré a ofrecer eCommerces listos para usar con deploy incluido.
+- Próximamente voy a publicar un repositorio público con todas las funcionalidades documentadas, y comenzaré a ofrecer eCommerces listos para usar con deploy incluido.
 
 
