@@ -54,7 +54,7 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
 </div>
 
 
-## 🚀 Proyecto  
+## 🚀 Proyectos  
 
 ### 🌍 Deploy en Producción  
 🔗 **Accede a las aplicaciones:**  
@@ -73,13 +73,13 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
 
 > 🔒 *Los repositorios de ambas aplicaciones son privados y están habilitados solo para revisión por parte del equipo técnico.*
 
-🛒 E-commerce escalable para negocios modernos
+🛒 E-commerce escalable para todo tipo de rubros.
 
 📅 Inicio: 27 de mayo de 2025
 ✅ Finalizado: octubre de 2025
 
 ### 🌍 Deploy en Producción  
-🔗 **Accede a las aplicaciones:**  
+🔗 **Accede a las aplicacione:**  
 - [Tu tienda online](https://ecommerce-front-cyan-zeta.vercel.app/)
 
 Aplicación e-commerce completa desarrollada para que cualquier negocio pueda vender online con su propia tienda personalizada.
@@ -109,8 +109,6 @@ El administrador cuenta con un dashboard completo que permite controlar todas la
 
 🖼️ Slider: administración de banners e imágenes del home.
 
-🔒 Salir: cierre de sesión seguro.
-
 💳 Integración de pagos
 
 El sistema cuenta con integración directa con Mercado Pago, permitiendo:
@@ -121,13 +119,27 @@ Confirmación automática del estado del pago.
 
 Generación de enlaces de pago personalizados.
 
+⚙️ Buenas prácticas y rendimiento
+
+El desarrollo se realizó con arquitectura limpia, separación por capas y patrones de diseño bien definidos, garantizando:
+
+🧩 Escalabilidad: preparada para crecer sin comprometer rendimiento.
+
+🚀 Alta performance: especial atención al backend, optimizando consultas, manejo de sesiones y carga de datos.
+
+🧠 Código mantenible y fácil de extender.
+
+✅ Buenas prácticas tanto en Angular como en Spring Boot.
+
+El objetivo fue lograr una aplicación altamente eficiente, robusta y fluida, donde cada detalle del backend fue cuidado para que la app literalmente volara. ⚡
+
 🧰 Tecnologías utilizadas
 
 Frontend: Angular 17
 
 Backend: Spring Boot
 
-Base de datos: MySQL
+Base de datos: PostgreSQL
 
 Pasarela de pagos: Mercado Pago
 
