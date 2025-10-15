@@ -73,7 +73,7 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
 
 > 🔒 *Los repositorios de ambas aplicaciones son privados y están habilitados solo para revisión por parte del equipo técnico.*
 
-🛒 E-commerce escalable para todo tipo de rubros.
+### 🛒 E-commerce escalable para todo tipo de rubros.
 
 📅 Inicio: 27 de mayo de 2025
 ✅ Finalizado: octubre de 2025
