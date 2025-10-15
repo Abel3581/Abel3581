@@ -79,7 +79,7 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
 ✅ Finalizado: octubre de 2025
 
 ### 🌍 Deploy en Producción  
-🔗 **Accede a las aplicacione:**  
+🔗 **Accede a la aplicacion con credenciales de testing:**  
 - [Tu tienda online](https://ecommerce-front-cyan-zeta.vercel.app/)
 
 Aplicación e-commerce completa desarrollada para que cualquier negocio pueda vender online con su propia tienda personalizada.
