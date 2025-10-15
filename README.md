@@ -87,7 +87,7 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
 
 👨‍💻 Panel de administración
 
-El administrador cuenta con un dashboard completo que permite controlar todas las secciones de la tienda:
+- El administrador cuenta con un dashboard completo que permite controlar todas las secciones de la tienda:
 
 🔹 Funcionalidades principales
 
@@ -111,17 +111,17 @@ El administrador cuenta con un dashboard completo que permite controlar todas la
 
 💳 Integración de pagos
 
-El sistema cuenta con integración directa con Mercado Pago, permitiendo:
+- El sistema cuenta con integración directa con Mercado Pago, permitiendo:
 
-Pagos con tarjeta de crédito, débito o billetera virtual.
+- Pagos con tarjeta de crédito, débito o billetera virtual.
 
-Confirmación automática del estado del pago.
+- Confirmación automática del estado del pago.
 
-Generación de enlaces de pago personalizados.
+- Generación de enlaces de pago personalizados.
 
 ⚙️ Buenas prácticas y rendimiento
 
-El desarrollo se realizó con arquitectura limpia, separación por capas y patrones de diseño bien definidos, garantizando:
+- El desarrollo se realizó con arquitectura limpia, separación por capas y patrones de diseño bien definidos, garantizando:
 
 🧩 Escalabilidad: preparada para crecer sin comprometer rendimiento.
 
@@ -131,22 +131,22 @@ El desarrollo se realizó con arquitectura limpia, separación por capas y patro
 
 ✅ Buenas prácticas tanto en Angular como en Spring Boot.
 
-El objetivo fue lograr una aplicación altamente eficiente, robusta y fluida, donde cada detalle del backend fue cuidado para que la app literalmente volara. ⚡
+- El objetivo fue lograr una aplicación altamente eficiente, robusta y fluida, donde cada detalle del backend fue cuidado para que la app literalmente volara. ⚡
 
 🧰 Tecnologías utilizadas
 
-Frontend: Angular 17
+- Frontend: Angular 17
 
-Backend: Spring Boot
+- Backend: Spring Boot
 
-Base de datos: PostgreSQL
+- Base de datos: PostgreSQL
 
-Pasarela de pagos: Mercado Pago
+- Pasarela de pagos: Mercado Pago
 
 💰 Precio del código
 
-El código completo del e-commerce está disponible por $5000.
+-- El código completo del e-commerce está disponible por $5000.
 
-Próximamente voy a publicar un repositorio público con todas las funcionalidades documentadas, y comenzaré a ofrecer eCommerces listos para usar con deploy incluido.
+-- Próximamente voy a publicar un repositorio público con todas las funcionalidades documentadas, y comenzaré a ofrecer eCommerces listos para usar con deploy incluido.
 
 
