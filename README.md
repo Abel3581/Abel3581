@@ -82,8 +82,8 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
 🔗 **Accede a la aplicacion con credenciales de testing:**  
 - [Tu tienda online](https://ecommerce-front-cyan-zeta.vercel.app/)
 
-Aplicación e-commerce completa desarrollada para que cualquier negocio pueda vender online con su propia tienda personalizada.
-Incluye panel administrativo con gestión integral, pagos con Mercado Pago y opciones avanzadas de logística.
+- Aplicación e-commerce completa desarrollada para que cualquier negocio pueda vender online con su propia tienda personalizada.
+- Incluye panel administrativo con gestión integral, pagos con Mercado Pago y opciones avanzadas de logística.
 
 👨‍💻 Panel de administración
 
