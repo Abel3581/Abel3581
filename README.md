@@ -60,7 +60,7 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
 🔗 **Accede a las aplicaciones:**  
 - [VendePro](https://vendepro.com.ar/start)  
 - [Tudoccerca](https://tudoccerca.com.ar)
-- [Tu tienda online](https://ecommerce-front-cyan-zeta.vercel.app/))
+- [Tu tienda online](https://ecommerce-front-cyan-zeta.vercel.app/)
 
 ---
 
@@ -73,42 +73,68 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
 
 > 🔒 *Los repositorios de ambas aplicaciones son privados y están habilitados solo para revisión por parte del equipo técnico.*
 
+🛒 E-commerce escalable para negocios modernos
 
----
-# 🚀 Nuevo proyecto en marcha: E-commerce escalable para negocios modernos
+📅 Inicio: 27 de mayo de 2025
+✅ Finalizado: octubre de 2025
 
-📅 *Inicio: 27 de mayo de 2025*
+### 🌍 Deploy en Producción  
+🔗 **Accede a las aplicaciones:**  
+- [Tu tienda online](https://ecommerce-front-cyan-zeta.vercel.app/)
 
-Hoy empiezo a trabajar en un nuevo desarrollo que me entusiasma mucho: una aplicación **e-commerce completa**, pensada para que cualquier negocio pueda vender online con su propia tienda personalizada.
+Aplicación e-commerce completa desarrollada para que cualquier negocio pueda vender online con su propia tienda personalizada.
+Incluye panel administrativo con gestión integral, pagos con Mercado Pago y opciones avanzadas de logística.
 
----
+👨‍💻 Panel de administración
 
-## 🛠️ Stack tecnológico
+El administrador cuenta con un dashboard completo que permite controlar todas las secciones de la tienda:
 
-- ✅ **Angular 17** (Frontend)
-- ✅ **Spring Boot** (Backend)
-- ✅ **Mercado Pago** (Integración de pagos)
+🔹 Funcionalidades principales
 
----
+👥 Usuarios: gestión de clientes y administradores.
 
-## 🎯 Objetivo del proyecto
+📦 Productos: creación, edición, eliminación y listado.
 
-Crear una **aplicación e-commerce vendible por unidad**, donde cada cliente pueda tener su propio entorno personalizado con:
+🌟 Destacados: selección de productos destacados en el inicio.
 
-- 🛒 Panel de administración
-- 📦 Gestión de productos
-- 👥 Gestión de clientes
-- 📑 Seguimiento de pedidos
-- 💳 Pagos integrados con Mercado Pago
+📤 Carga masiva: posibilidad de subir productos en lote mediante archivo CSV.
 
----
+🚚 Logística: actualización de precios de envío y selección del proveedor (Andreani, retiro local, etc).
 
-💡 El foco está en la **escalabilidad**, la **calidad del código** y el uso de **buenas prácticas de desarrollo**, para facilitar tanto la venta por unidad como el mantenimiento a largo plazo.
+🧾 Pedidos: control de pedidos y estados (pendiente, enviado, entregado).
 
----
+🏷️ Categorías / Subcategorías: organización jerárquica de productos.
 
-¡Pronto más avances! 💼🔥
+🧩 Características: gestión de atributos personalizados (color, tamaño, peso, etc).
 
+🖼️ Slider: administración de banners e imágenes del home.
 
+🔒 Salir: cierre de sesión seguro.
+
+💳 Integración de pagos
+
+El sistema cuenta con integración directa con Mercado Pago, permitiendo:
+
+Pagos con tarjeta de crédito, débito o billetera virtual.
+
+Confirmación automática del estado del pago.
+
+Generación de enlaces de pago personalizados.
+
+🧰 Tecnologías utilizadas
+
+Frontend: Angular 17
+
+Backend: Spring Boot
+
+Base de datos: MySQL
+
+Pasarela de pagos: Mercado Pago
+
+💰 Precio del código
+
+El código completo del e-commerce está disponible por $5000.
+
+Próximamente voy a publicar un repositorio público con todas las funcionalidades documentadas, y comenzaré a ofrecer eCommerces listos para usar con deploy incluido.
 
 
