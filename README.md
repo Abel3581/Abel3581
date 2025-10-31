@@ -62,9 +62,7 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
     <img 
       src="https://github.com/user-attachments/assets/67264baf-6598-408c-8447-6dc27235e5ef" 
       alt="AWS Re/Start Graduate" 
-      width="110" 
-      
-    />
+      width="110" />
   </a>
 
   <!-- Mercado Pago Checkout Pro -->
@@ -72,9 +70,7 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
     <img 
       src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761946071/Insignia_fwkkyp.png" 
       alt="Certificado Mercado Pago Checkout Pro" 
-      width="130" 
-     
-    />
+      width="130"/>
   </a>
 </p>
 
