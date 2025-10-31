@@ -66,7 +66,8 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
       style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); vertical-align: middle;" 
     />
   </a>
-  <p>   </p>
+
+  
   <!-- Mercado Pago Checkout Pro -->
   <a href="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761946071/Insignia_fwkkyp.png" target="_blank">
     <img 
