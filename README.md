@@ -56,7 +56,7 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
 
 <h3 align="center">🏅 Mis certificaciones</h3>
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 80px;">
   <!-- AWS Re/Start -->
   <a href="https://www.credly.com/badges/0b5ac6d0-0f15-4dc6-b2ec-d7c0e1b3dd9d/public_url" target="_blank">
     <img 
