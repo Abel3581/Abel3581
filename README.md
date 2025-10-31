@@ -53,7 +53,7 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
   </a>
    <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761946071/Insignia_fwkkyp.png" alt="certificado-mercadopago-checkout-pro" width="150"/>
 </div> -->
-<div align="center">
+<div align="center" style="display-flex">
 
   <!-- AWS Re/Start -->
   <a href="https://www.credly.com/badges/0b5ac6d0-0f15-4dc6-b2ec-d7c0e1b3dd9d/public_url" target="_blank">
@@ -69,7 +69,7 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
   <img 
     src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761946071/Insignia_fwkkyp.png" 
     alt="Certificado Mercado Pago Checkout Pro" 
-    width="160" 
+    width="150" 
     style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"
   />
 
