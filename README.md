@@ -47,12 +47,34 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
 <!--[![](https://visitcount.itsvg.in/api?id=Abel3581&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.credly.com/badges/0b5ac6d0-0f15-4dc6-b2ec-d7c0e1b3dd9d/public_url" target="_blank">
     <img src="https://github.com/user-attachments/assets/67264baf-6598-408c-8447-6dc27235e5ef" alt="aws-re-start-graduate" width="100"/>
   </a>
-   <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761946071/Insignia_fwkkyp.png" alt="certificado-mercadopago-checkout-pro" width="100"/>
+   <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761946071/Insignia_fwkkyp.png" alt="certificado-mercadopago-checkout-pro" width="150"/>
+</div> -->
+<div align="center">
+
+  <!-- AWS Re/Start -->
+  <a href="https://www.credly.com/badges/0b5ac6d0-0f15-4dc6-b2ec-d7c0e1b3dd9d/public_url" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/67264baf-6598-408c-8447-6dc27235e5ef" 
+      alt="AWS Re/Start Graduate" 
+      width="110" 
+      style="margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"
+    />
+  </a>
+
+  <!-- Mercado Pago Checkout Pro -->
+  <img 
+    src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761946071/Insignia_fwkkyp.png" 
+    alt="Certificado Mercado Pago Checkout Pro" 
+    width="160" 
+    style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"
+  />
+
 </div>
+
 
 
 ## 🚀 Proyectos  
