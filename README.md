@@ -53,7 +53,6 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
   </a>
    <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761946071/Insignia_fwkkyp.png" alt="certificado-mercadopago-checkout-pro" width="150"/>
 </div> -->
-<div align="center" style="display-flex">
 
 <h3 align="center">🎖️ Mis certificaciones</h3>
 
