@@ -54,15 +54,17 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
    <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761946071/Insignia_fwkkyp.png" alt="certificado-mercadopago-checkout-pro" width="150"/>
 </div> -->
 
-<h3 align="center">🎖️ Mis certificaciones</h3>
+<h3 align="center">🏅 Mis certificaciones</h3>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px;">
   <!-- AWS Re/Start -->
   <a href="https://www.credly.com/badges/0b5ac6d0-0f15-4dc6-b2ec-d7c0e1b3dd9d/public_url" target="_blank">
     <img 
       src="https://github.com/user-attachments/assets/67264baf-6598-408c-8447-6dc27235e5ef" 
       alt="AWS Re/Start Graduate" 
-      width="110" />
+      width="110"
+      style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); vertical-align: middle;" 
+    />
   </a>
 
   <!-- Mercado Pago Checkout Pro -->
@@ -70,9 +72,12 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
     <img 
       src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761946071/Insignia_fwkkyp.png" 
       alt="Certificado Mercado Pago Checkout Pro" 
-      width="150"/>
+      width="180"
+      style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); vertical-align: middle;" 
+    />
   </a>
 </p>
+
 
 
 
