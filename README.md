@@ -62,7 +62,7 @@ Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de apl
     <img 
       src="https://github.com/user-attachments/assets/67264baf-6598-408c-8447-6dc27235e5ef" 
       alt="AWS Re/Start Graduate" 
-      width="110"
+      width="125"
       style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); vertical-align: middle;" 
     />
   </a>
