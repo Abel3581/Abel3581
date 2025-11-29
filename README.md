@@ -1,4 +1,5 @@
 🚀 Full-Stack Developer | Java, Spring Boot, Angular
+Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de aplicaciones web.
 
 Creo tiendas online modernas y de alto rendimiento utilizando tecnologías empresariales como Java, Spring Boot, Angular, PostgreSQL y Mercado Pago.
 Ofrezco dos modalidades según la necesidad del cliente:
