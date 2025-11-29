@@ -1,4 +1,4 @@
-🚀 Full-Stack Developer | Java, Spring Boot, Angular
+## Full-Stack Developer | Java, Spring Boot, Angular
 
 Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de aplicaciones web.
 
