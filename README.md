@@ -2,11 +2,25 @@
 
 Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de aplicaciones web. Especializado en backend con Spring Boot y Quarkus, y con sólidos conocimientos en frontend con Angular. Proactivo, adaptable y resiliente, destacando en entornos ágiles y en la resolución de problemas complejos.
 
+🛒 Soluciones Profesionales para Tiendas Online
+<div align="center"> <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1764448789/og-image_ldpgqt.png" width="700" alt="Tienda Digital"> </div>
+🚀 Desarrollo de e-commerce a medida y plantillas listas para usar
+
+Creo tiendas online modernas y de alto rendimiento utilizando tecnologías empresariales como Java, Spring Boot, Angular, PostgreSQL y Mercado Pago.
+Ofrezco dos modalidades según la necesidad del cliente:
+
+🧩 Plantillas predefinidas diseñadas y desarrolladas por mí, listas para implementar.
+
+🛠️ Desarrollo 100% a medida, adaptado a la identidad, funcionalidades y procesos del negocio.
+
+Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y escalabilidad de nivel profesional.
+
+<div align="center"> <a href="https://tutiendadigital.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Ver%20Tienda%20Digital-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </div>
+
 ## 🌐 Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-fernando-acevedo/) 
 [![Credly](https://img.shields.io/badge/Credly-%23F24E1E.svg?logo=credly&logoColor=white)](https://www.credly.com/users/abel-acevedo/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/AbelFerAcevedo/)
-
 
 
 ### 🚀 **Tecnologías y Herramientas**
