@@ -1,11 +1,5 @@
 🚀 Full-Stack Developer | Java, Spring Boot, Angular
 
-Desarrollo aplicaciones web y tiendas online profesionales, ya sea a medida o con plantillas propias. Tecnologías empresariales, alto rendimiento y soluciones escalables.
-
-🛒 Soluciones Profesionales para Tiendas Online
-<div align="center"> <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1764448789/og-image_ldpgqt.png" width="400" alt="Tienda Digital"> </div>
-🚀 Desarrollo de e-commerce a medida y plantillas listas para usar
-
 Creo tiendas online modernas y de alto rendimiento utilizando tecnologías empresariales como Java, Spring Boot, Angular, PostgreSQL y Mercado Pago.
 Ofrezco dos modalidades según la necesidad del cliente:
 
@@ -14,6 +8,8 @@ Ofrezco dos modalidades según la necesidad del cliente:
 🛠️ Desarrollo 100% a medida, adaptado a la identidad, funcionalidades y procesos del negocio.
 
 Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y escalabilidad de nivel profesional.
+
+<div align="center"> <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1764448789/og-image_ldpgqt.png" width="400" alt="Tienda Digital"> </div>
 
 <div align="center"> <a href="https://tutiendadigital.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Ver%20Tienda%20Digital-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </div>
 
