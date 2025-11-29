@@ -1,6 +1,6 @@
-# 🌟 Innovación y Desarrollo a la Vanguardia 🌌
+🚀 Full-Stack Developer | Java, Spring Boot, Angular
 
-Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de aplicaciones web. Especializado en backend con Spring Boot y Quarkus, y con sólidos conocimientos en frontend con Angular. Proactivo, adaptable y resiliente, destacando en entornos ágiles y en la resolución de problemas complejos.
+Desarrollo aplicaciones web y tiendas online profesionales, ya sea a medida o con plantillas propias. Tecnologías empresariales, alto rendimiento y soluciones escalables.
 
 🛒 Soluciones Profesionales para Tiendas Online
 <div align="center"> <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1764448789/og-image_ldpgqt.png" width="700" alt="Tienda Digital"> </div>
@@ -15,7 +15,7 @@ Ofrezco dos modalidades según la necesidad del cliente:
 
 Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y escalabilidad de nivel profesional.
 
-<div align="center"> <a href="https://tutiendadigital.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Ver%20Tienda%20Digital-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </div>
+<div align="center"> <a href="https://tutiendadigital.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Ver%20Tienda%20Digital-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" width="300"/> </a> </div>
 
 ## 🌐 Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-fernando-acevedo/) 
