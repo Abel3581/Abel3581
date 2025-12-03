@@ -29,31 +29,6 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 📊 GitHub Stats
-
-<!-- Public + private commits -->
-![Abel GitHub Stats](https://github-readme-stats.vercel.app/api?username=abelacevedoo&show_icons=true&count_private=true&hide=issues&theme=tokyonight)
-
-<!-- Total repos + stars -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abelacevedoo&theme=tokyonight)
-
-<!-- Lenguajes top -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abelacevedoo&layout=compact&langs_count=8&theme=tokyonight)
-
----
-
-## 📈 Actividad (con contribuciones privadas)
-
-![Abel Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abelacevedoo&bg_color=0d1117&color=00eaff&line=00ffc8&point=00ffc8&area=true&hide_border=true)
-
----
-
-## ⭐ Repositorios Destacados
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abelacevedoo&repo=TuDocCerca&theme=tokyonight)](https://github.com/abelacevedoo/TuDocCerca)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abelacevedoo&repo=DeCamino&theme=tokyonight)](https://github.com/abelacevedoo/DeCamino)
-
-
 <!--
 ### 🔝 Repositorio más contribuido
 ![](https://github-contributor-stats.vercel.app/api?username=Abel3581&limit=5&theme=dark&combine_all_yearly_contributions=true)
