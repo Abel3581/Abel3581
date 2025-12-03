@@ -37,7 +37,7 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 ## 🟩 Total Contributions
 
 <div align="center">
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abel3581&theme=default) 
 </div>
 
 <div align="center">
