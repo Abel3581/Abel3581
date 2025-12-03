@@ -34,25 +34,20 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 ![](https://github-contributor-stats.vercel.app/api?username=Abel3581&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
 ## 📊 GitHub Stats
+## 🟩 Total Contributions
 
 <div align="center">
-
-  <!-- Total contributions (incluye privadas) -->
   <img 
-    src="https://streak-stats.demolab.com?user=Abel3581&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
+    src="https://ghchart.rshah.org/00FF9D/Abel3581"
+    alt="GitHub contribution chart"
   />
+</div>
 
+<div align="center">
   <!-- Repos, estrellas, commits, PRs, issues -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abel3581&theme=tokyonight" 
     alt="GitHub Stats"
-  />
-
-  <!-- Top languages -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abel3581&theme=tokyonight" 
-    alt="Top Languages"
   />
 
 </div>
