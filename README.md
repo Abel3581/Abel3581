@@ -34,30 +34,7 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 ![](https://github-contributor-stats.vercel.app/api?username=Abel3581&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
 ## 📊 GitHub Stats
-## 🟩 Total Contributions
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Abel3581"
-    alt="Abel3581's GitHub Stats"
-  />
-</div>
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Abel3581&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="Abel3581's GitHub Stats"
-  />
-</div>
-
----
-
-### ⭐ Social Badges
-
-<div align="center">
-    <img src="https://img.shields.io/github/followers/Abel3581?style=for-the-badge&logo=github&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/stars/Abel3581?style=for-the-badge&logo=github&labelColor=0d1117" />
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abel3581)](https://github.com/Abel3581/github-readme-stats)
 
 
 
