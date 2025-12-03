@@ -28,21 +28,11 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-<!--
-# 📊 Estadísticas de GitHub:
-![](https://github-readme-stats.vercel.app/api?username=Abel3581&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abel3581&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abel3581&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)-->
-
 
 # 📊 Estadísticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=Abel3581&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abel3581&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abel3581&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abel3581&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abel3581&theme=tokyonight&hide_border=false)
 
 
 
