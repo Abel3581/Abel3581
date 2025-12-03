@@ -37,19 +37,17 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 ## 🟩 Total Contributions
 
 <div align="center">
-  <img 
-    src="https://ghchart.rshah.org/00FF9D/Abel3581"
-    alt="GitHub contribution chart"
-  />
+  <img 
+    src="https://ghchart.rshah.org/00FF9D/Abel3581"
+    alt="GitHub contribution chart"
+  />
 </div>
 
 <div align="center">
-  <!-- Repos, estrellas, commits, PRs, issues -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abel3581&theme=tokyonight" 
-    alt="GitHub Stats"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Abel3581&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Abel3581's GitHub Stats"
   />
-
 </div>
 
 ---
@@ -57,10 +55,8 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 ### ⭐ Social Badges
 
 <div align="center">
-
-  <img src="https://img.shields.io/github/followers/Abel3581?style=for-the-badge&logo=github&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/stars/Abel3581?style=for-the-badge&logo=github&labelColor=0d1117" />
-
+    <img src="https://img.shields.io/github/followers/Abel3581?style=for-the-badge&logo=github&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/stars/Abel3581?style=for-the-badge&logo=github&labelColor=0d1117" />
 </div>
 
 
