@@ -37,14 +37,14 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 
   <!-- Estadísticas generales -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Abel3581&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
+    src="https://github-readme-stats-git-master-abel3581.vercel.app/api?username=Abel3581&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
     alt="GitHub Stats" 
     height="165"
   />
 
   <!-- Lenguajes -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abel3581&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats-git-master-abel3581.vercel.app/api/top-langs/?username=Abel3581&layout=compact&theme=tokyonight" 
     alt="Top Langs" 
     height="165"
   />
