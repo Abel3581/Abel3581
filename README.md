@@ -37,10 +37,7 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 ## 🟩 Total Contributions
 
 <div align="center">
-  <img 
-    src="https://ghchart.rshah.org/00FF9D/Abel3581"
-    alt="GitHub contribution chart"
-  />
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default) 
 </div>
 
 <div align="center">
