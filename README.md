@@ -33,23 +33,41 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 ### 🔝 Repositorio más contribuido
 ![](https://github-contributor-stats.vercel.app/api?username=Abel3581&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
+## 📊 GitHub Stats
+
 <div align="center">
 
-  <!-- Estadísticas generales -->
+  <!-- Total contributions (incluye privadas) -->
   <img 
-    src="https://github-readme-stats-git-master-abel3581.vercel.app/api?username=Abel3581&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
-    alt="GitHub Stats" 
-    height="165"
+    src="https://streak-stats.demolab.com?user=Abel3581&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
   />
 
-  <!-- Lenguajes -->
+  <!-- Repos, estrellas, commits, PRs, issues -->
   <img 
-    src="https://github-readme-stats-git-master-abel3581.vercel.app/api/top-langs/?username=Abel3581&layout=compact&theme=tokyonight" 
-    alt="Top Langs" 
-    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abel3581&theme=tokyonight" 
+    alt="GitHub Stats"
+  />
+
+  <!-- Top languages -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abel3581&theme=tokyonight" 
+    alt="Top Languages"
   />
 
 </div>
+
+---
+
+### ⭐ Social Badges
+
+<div align="center">
+
+  <img src="https://img.shields.io/github/followers/Abel3581?style=for-the-badge&logo=github&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/stars/Abel3581?style=for-the-badge&logo=github&labelColor=0d1117" />
+
+</div>
+
 
 
 
