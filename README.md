@@ -33,22 +33,25 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 ### 🔝 Repositorio más contribuido
 ![](https://github-contributor-stats.vercel.app/api?username=Abel3581&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
-
 <div align="center">
 
-<!-- Stats generales -->
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Abel3581&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
-  height="180"
-/>
+  <!-- Estadísticas generales -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Abel3581&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
+    alt="GitHub Stats" 
+    height="165"
+  />
 
-<!-- Lenguajes -->
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abel3581&layout=compact&theme=tokyonight" 
-  height="180"
-/>
+  <!-- Lenguajes -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abel3581&layout=compact&theme=tokyonight" 
+    alt="Top Langs" 
+    height="165"
+  />
 
 </div>
+
+
 
 
 
