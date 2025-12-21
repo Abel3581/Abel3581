@@ -38,10 +38,10 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 <!--
 ### 🔝 Repositorio más contribuido
 ![](https://github-contributor-stats.vercel.app/api?username=Abel3581&limit=5&theme=dark&combine_all_yearly_contributions=true)
--->
+
 ## 📊 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abel3581)](https://github.com/Abel3581/github-readme-stats)
-
+-->
 
 
 
