@@ -25,7 +25,13 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 
 <div align="center"> <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1773670614/electro-theme-og.png_ir7x3g.png" width="400" alt="Portfolio"> </div>
 
-<div align="center"> <a href="" target="_blank"> <img src="https://img.shields.io/badge/Ver%20Portfolio-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </div>
+<div align="center"> <a href="" target="_blank"> <img src="https://img.shields.io/badge/Ver%20Proyecto-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </div>
+
+## e-commerce - Clon Coto Digital
+
+<div align="center"> <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761580413/home_ojsacs.png" width="400" alt="Portfolio"> </div>
+
+<div align="center"> <a href="https://ecommerce-front-cyan-zeta.vercel.app/cliente" target="_blank"> <img src="https://img.shields.io/badge/Ver%20Proyecto-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </div>
 
 
 ## 🌐 Sociales:
