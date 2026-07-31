@@ -24,7 +24,7 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 ## 🎬 Video Demostrativo
 
 <p align="center">
-  ![hippo](https://res.cloudinary.com/dlv9gwnw3/image/upload/v1785523312/EPICENTRO_kgpdsz.gif)
+  ![hippo]("https://res.cloudinary.com/dlv9gwnw3/image/upload/v1785523312/EPICENTRO_kgpdsz.gif")
 </p>
 
 ## Portfolio
