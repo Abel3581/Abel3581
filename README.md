@@ -24,7 +24,7 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 ## 🎬 Video Demostrativo
 
 <p align="center">
-  ![hippo]("https://res.cloudinary.com/dlv9gwnw3/image/upload/v1785523312/EPICENTRO_kgpdsz.gif")
+  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1785523312/EPICENTRO_kgpdsz.gif" width="600" alt="Video Demostrativo EPICENTRO">
 </p>
 
 ## Portfolio
@@ -42,7 +42,7 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 ## e-commerce - Clon Fravega
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1773670614/electro-theme-og.png_ir7x3g.png" width="400" alt="Portfolio">
+  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1773670614/electro-theme-og.png_ir7x3g.png" width="400" alt="Clon Fravega">
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 ## e-commerce - Clon Coto Digital
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761580413/home_ojsacs.png" width="400" alt="Portfolio">
+  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761580413/home_ojsacs.png" width="400" alt="Clon Coto Digital">
 </p>
 
 <p align="center">
