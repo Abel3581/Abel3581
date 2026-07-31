@@ -24,9 +24,7 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 ## 🎬 Video Demostrativo
 
 <div align="center">
-  <video src="https://res.cloudinary.com/dlv9gwnw3/video/upload/v1785522128/EPICENTRO_mpdofl.mp4" width="600" controls autoplay loop muted poster="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1764448789/og-image_ldpgqt.png">
-    Tu navegador no soporta la reproducción de video. <a href="[https://res.cloudinary.com/dlv9gwnw3/video/upload/v1234567890/tu_video.mp4](https://res.cloudinary.com/dlv9gwnw3/video/upload/v1785522128/EPICENTRO_mpdofl.mp4)">Haz clic aquí para ver el video</a>.
-  </video>
+  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1785523312/EPICENTRO_kgpdsz.gif" width="600" alt="Video Demostrativo EPICENTRO">
 </div>
 
 ## Portfolio
