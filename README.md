@@ -1,3 +1,4 @@
+
 ## Full-Stack Developer | Java, Spring Boot, Angular
 
 Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de aplicaciones web.
@@ -24,7 +25,7 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 ## 🎬 Video Demostrativo
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/w_800,q_auto:good/v1785523312/EPICENTRO_kgpdsz.gif" width="600" alt="Video Demostrativo" />
+<img width="1920" height="1080" alt="EPICENTRO" src="https://github.com/user-attachments/assets/08b8e9a9-cc31-406f-a741-a2c89d659c4d" />
 </p>
 
 ## Portfolio
