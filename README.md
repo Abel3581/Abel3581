@@ -11,34 +11,64 @@ Ofrezco dos modalidades según la necesidad del cliente:
 
 Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y escalabilidad de nivel profesional.
 
-<div align="center"> <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1764448789/og-image_ldpgqt.png" width="400" alt="Tienda Digital"> </div>
+<div align="center"> 
+  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1764448789/og-image_ldpgqt.png" width="400" alt="Tienda Digital"> 
+</div>
 
-<div align="center"> <a href="https://tutiendadigital.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Ver%20Tienda%20Digital-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </div>
+<div align="center"> 
+  <a href="https://tutiendadigital.vercel.app/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Ver%20Tienda%20Digital-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" /> 
+  </a> 
+</div>
+
+## 🎬 Video Demostrativo
+
+<div align="center">
+  <video src="https://res.cloudinary.com/dlv9gwnw3/video/upload/v1785522128/EPICENTRO_mpdofl.mp4" width="600" controls autoplay loop muted poster="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1764448789/og-image_ldpgqt.png">
+    Tu navegador no soporta la reproducción de video. <a href="[https://res.cloudinary.com/dlv9gwnw3/video/upload/v1234567890/tu_video.mp4](https://res.cloudinary.com/dlv9gwnw3/video/upload/v1785522128/EPICENTRO_mpdofl.mp4)">Haz clic aquí para ver el video</a>.
+  </video>
+</div>
 
 ## Portfolio
 
-<div align="center"> <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1765373838/og-img_eyn9jc.png" width="400" alt="Portfolio"> </div>
+<div align="center"> 
+  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1765373838/og-img_eyn9jc.png" width="400" alt="Portfolio"> 
+</div>
 
-<div align="center"> <a href="https://abel-acevedo-portfolio.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Ver%20Portfolio-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </div>
+<div align="center"> 
+  <a href="https://abel-acevedo-portfolio.vercel.app/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Ver%20Portfolio-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" /> 
+  </a> 
+</div>
 
 ## e-commerce - Clon Fravega 
 
-<div align="center"> <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1773670614/electro-theme-og.png_ir7x3g.png" width="400" alt="Portfolio"> </div>
+<div align="center"> 
+  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1773670614/electro-theme-og.png_ir7x3g.png" width="400" alt="Portfolio"> 
+</div>
 
-<div align="center"> <a href="" target="_blank"> <img src="https://img.shields.io/badge/Ver%20Proyecto-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </div>
+<div align="center"> 
+  <a href="" target="_blank"> 
+    <img src="https://img.shields.io/badge/Ver%20Proyecto-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" /> 
+  </a> 
+</div>
 
 ## e-commerce - Clon Coto Digital
 
-<div align="center"> <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761580413/home_ojsacs.png" width="400" alt="Portfolio"> </div>
+<div align="center"> 
+  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761580413/home_ojsacs.png" width="400" alt="Portfolio"> 
+</div>
 
-<div align="center"> <a href="https://ecommerce-front-cyan-zeta.vercel.app/cliente" target="_blank"> <img src="https://img.shields.io/badge/Ver%20Proyecto-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </div>
-
+<div align="center"> 
+  <a href="https://ecommerce-front-cyan-zeta.vercel.app/cliente" target="_blank"> 
+    <img src="https://img.shields.io/badge/Ver%20Proyecto-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" /> 
+  </a> 
+</div>
 
 ## 🌐 Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-fernando-acevedo/) 
 [![Credly](https://img.shields.io/badge/Credly-%23F24E1E.svg?logo=credly&logoColor=white)](https://www.credly.com/users/abel-acevedo/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/AbelFerAcevedo/)
-
 
 ### 🚀 **Tecnologías y Herramientas**
 # 💻 Pila de tecnología:
@@ -48,20 +78,7 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<!--
-### 🔝 Repositorio más contribuido
-![](https://github-contributor-stats.vercel.app/api?username=Abel3581&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abel3581)](https://github.com/Abel3581/github-readme-stats)
--->
-
-
-
-
-
 [![](https://visitcount.itsvg.in/api?id=Abel3581&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
-<!--[![](https://visitcount.itsvg.in/api?id=Abel3581&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)-->
 
 <h3 align="center">🏅 Mis certificaciones</h3>
 
@@ -76,7 +93,6 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
     />
   </a>
 
-  
   <!-- Mercado Pago Checkout Pro -->
   <a href="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761946071/Insignia_fwkkyp.png" target="_blank">
     <img 
@@ -87,10 +103,6 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
     />
   </a>
 </p>
-
-
-
-
 
 ## 🚀 Proyectos  
 
@@ -108,5 +120,5 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 
 - **VendePro:** Acceso privado, disponible exclusivamente para el equipo técnico.  
 - **Tudoccerca:** Completamente desarrollada, operativa y con acceso privado para técnicos.
-- **E-commerce escalable para todo tipo de rubros** Completamente desarrollada, operativa y con acceso privado para técnicos.
+- **E-commerce escalable para todo tipo de rubros:** Completamente desarrollada, operativa y con acceso privado para técnicos.
 > 🔒 *Los repositorios de ambas aplicaciones son privados y están habilitados solo para revisión por parte del equipo técnico.*
