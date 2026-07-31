@@ -59,9 +59,9 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 </p>
 
 ## 🎬 Epicentro app android 
-<p align="center">
+
 https://github.com/user-attachments/assets/8b109fce-f4e0-4075-bdb5-5748a308b265
-</p>
+
 
 ## 🌐 Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-fernando-acevedo/)
