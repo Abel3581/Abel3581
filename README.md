@@ -22,12 +22,6 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
   </a>
 </p>
 
-## 🎬 Video Demostrativo
-
-<p align="center">
-<img width="1920" height="1080" alt="EPICENTRO" src="https://github.com/user-attachments/assets/08b8e9a9-cc31-406f-a741-a2c89d659c4d" />
-</p>
-
 ## Portfolio
 
 <p align="center">
@@ -62,6 +56,12 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
   <a href="https://ecommerce-front-cyan-zeta.vercel.app/cliente" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20Proyecto-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Proyecto" />
   </a>
+</p>
+
+## 🎬 Video Demostrativo
+
+<p align="center">
+<img width="1920" height="1080" alt="EPICENTRO" src="https://github.com/user-attachments/assets/08b8e9a9-cc31-406f-a741-a2c89d659c4d" />
 </p>
 
 ## 🌐 Sociales:
