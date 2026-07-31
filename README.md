@@ -11,57 +11,60 @@ Ofrezco dos modalidades según la necesidad del cliente:
 
 Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y escalabilidad de nivel profesional.
 
-<div align="center"> 
-  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1764448789/og-image_ldpgqt.png" width="400" alt="Tienda Digital"> 
-</div>
+<p align="center">
+  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1764448789/og-image_ldpgqt.png" width="400" alt="Tienda Digital">
+</p>
 
-<div align="center"> 
-  <a href="https://tutiendadigital.vercel.app/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Ver%20Tienda%20Digital-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" /> 
-  </a> 
-</div>
+<p align="center">
+  <a href="https://tutiendadigital.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Tienda%20Digital-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Tienda Digital" />
+  </a>
+</p>
 
 ## 🎬 Video Demostrativo
 
-[![Demostración de la aplicación](demo/demo.gif)](https://res.cloudinary.com/dlv9gwnw3/image/upload/v1785523312/EPICENTRO_kgpdsz.gif)
+<p align="center">
+  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1785523312/EPICENTRO_kgpdsz.gif" width="600" alt="Video Demostrativo EPICENTRO" />
+</p>
+
 ## Portfolio
 
-<div align="center"> 
-  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1765373838/og-img_eyn9jc.png" width="400" alt="Portfolio"> 
-</div>
+<p align="center">
+  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1765373838/og-img_eyn9jc.png" width="400" alt="Portfolio">
+</p>
 
-<div align="center"> 
-  <a href="https://abel-acevedo-portfolio.vercel.app/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Ver%20Portfolio-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" /> 
-  </a> 
-</div>
+<p align="center">
+  <a href="https://abel-acevedo-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Portfolio-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Portfolio" />
+  </a>
+</p>
 
-## e-commerce - Clon Fravega 
+## e-commerce - Clon Fravega
 
-<div align="center"> 
-  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1773670614/electro-theme-og.png_ir7x3g.png" width="400" alt="Portfolio"> 
-</div>
+<p align="center">
+  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1773670614/electro-theme-og.png_ir7x3g.png" width="400" alt="Portfolio">
+</p>
 
-<div align="center"> 
-  <a href="" target="_blank"> 
-    <img src="https://img.shields.io/badge/Ver%20Proyecto-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" /> 
-  </a> 
-</div>
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Proyecto-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Proyecto" />
+  </a>
+</p>
 
 ## e-commerce - Clon Coto Digital
 
-<div align="center"> 
-  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761580413/home_ojsacs.png" width="400" alt="Portfolio"> 
-</div>
+<p align="center">
+  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761580413/home_ojsacs.png" width="400" alt="Portfolio">
+</p>
 
-<div align="center"> 
-  <a href="https://ecommerce-front-cyan-zeta.vercel.app/cliente" target="_blank"> 
-    <img src="https://img.shields.io/badge/Ver%20Proyecto-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" /> 
-  </a> 
-</div>
+<p align="center">
+  <a href="https://ecommerce-front-cyan-zeta.vercel.app/cliente" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Proyecto-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Proyecto" />
+  </a>
+</p>
 
 ## 🌐 Sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-fernando-acevedo/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-fernando-acevedo/)
 [![Credly](https://img.shields.io/badge/Credly-%23F24E1E.svg?logo=credly&logoColor=white)](https://www.credly.com/users/abel-acevedo/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/AbelFerAcevedo/)
 
@@ -73,29 +76,17 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-[![](https://visitcount.itsvg.in/api?id=Abel3581&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
+[![](https://visitcount.itsvg.in/api?id=Abel3581&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h3 align="center">🏅 Mis certificaciones</h3>
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 80px;">
-  <!-- AWS Re/Start -->
+<p align="center">
   <a href="https://www.credly.com/badges/0b5ac6d0-0f15-4dc6-b2ec-d7c0e1b3dd9d/public_url" target="_blank">
-    <img 
-      src="https://github.com/user-attachments/assets/67264baf-6598-408c-8447-6dc27235e5ef" 
-      alt="AWS Re/Start Graduate" 
-      width="125"
-      style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); vertical-align: middle;" 
-    />
+    <img src="https://github.com/user-attachments/assets/67264baf-6598-408c-8447-6dc27235e5ef" alt="AWS Re/Start Graduate" width="125" />
   </a>
-
-  <!-- Mercado Pago Checkout Pro -->
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761946071/Insignia_fwkkyp.png" target="_blank">
-    <img 
-      src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761946071/Insignia_fwkkyp.png" 
-      alt="Certificado Mercado Pago Checkout Pro" 
-      width="170"
-      style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); vertical-align: middle;" 
-    />
+    <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761946071/Insignia_fwkkyp.png" alt="Certificado Mercado Pago Checkout Pro" width="170" />
   </a>
 </p>
 
