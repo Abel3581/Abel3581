@@ -58,10 +58,10 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
   </a>
 </p>
 
-## 🎬 Video Demostrativo
+## 🎬 Epicentro app android 
 
 <p align="center">
-<img width="1920" height="1080" alt="EPICENTRO" src="https://github.com/user-attachments/assets/08b8e9a9-cc31-406f-a741-a2c89d659c4d" />
+    https://github.com/user-attachments/assets/c78ca273-8123-4d47-93b2-76ed7466f2a4
 </p>
 
 ## 🌐 Sociales:
