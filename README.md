@@ -1,4 +1,3 @@
-
 ## Full-Stack Developer | Java, Spring Boot, Angular
 
 Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de aplicaciones web.
@@ -60,7 +59,7 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 
 ## 🎬 Epicentro app android 
 
-https://github.com/user-attachments/assets/8b109fce-f4e0-4075-bdb5-5748a308b265
+[https://github.com/user-attachments/assets/8b109fce-f4e0-4075-bdb5-5748a308b265](https://github.com/user-attachments/assets/3cc235e4-762a-4755-a1ae-2535d11e3f57)
 
 
 ## 🌐 Sociales:
