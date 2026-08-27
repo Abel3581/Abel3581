@@ -24,11 +24,11 @@ Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y esc
 ## Portfolio
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1765373838/og-img_eyn9jc.png" width="400" alt="Portfolio">
+  <img src="https://res.cloudinary.com/djwlyddad/image/upload/v1787843004/portfolio/og-imgage_jclbtx.png" width="400" alt="Portfolio">
 </p>
 
 <p align="center">
-  <a href="https://abel-acevedo-portfolio.vercel.app/" target="_blank">
+  <a href="https://abel-acevedo-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20Portfolio-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Portfolio" />
   </a>
 </p>
