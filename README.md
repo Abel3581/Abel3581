@@ -78,9 +78,82 @@ Apasionado por transformar requerimientos de negocio complejos en soluciones té
 [![Credly](https://img.shields.io/badge/Credly-%23F24E1E.svg?logo=credly&logoColor=white)](https://www.credly.com/users/abel-acevedo/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/AbelFerAcevedo/)
 
-### 🚀 **Tecnologías y Herramientas**
-# 💻 Pila de tecnología:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) ![Quarkus](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Junit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+## 🛠️ Technical Skills
+
+```json
+{
+  "Languages & Core": [
+    "Java",
+    "Kotlin",
+    "TypeScript",
+    "JavaScript",
+    "Python",
+    "POO",
+    "Programación Funcional"
+  ],
+  "Backend & Architecture": [
+    "Spring Boot",
+    "Spring Security",
+    "Spring Data JPA",
+    "Hibernate",
+    "Quarkus",
+    "Node.js",
+    "Microservicios",
+    "Arquitectura Limpia (Clean Architecture)",
+    "Arquitectura Modular y Desacoplada",
+    "APIs REST / RESTful Services",
+    "SOAP",
+    "DTOs",
+    "MapStruct",
+    "ModelMapper"
+  ],
+  "Frontend Ecosystem": [
+    "Angular",
+    "RxJS",
+    "Signals",
+    "TypeScript",
+    "HTML5",
+    "CSS3",
+    "Sass/SCSS",
+    "Tailwind CSS",
+    "Bootstrap",
+    "Angular Material",
+    "NG-ZORRO",
+    "Responsive Design",
+    "SPA",
+    "State Management"
+  ],
+  "Databases & Caching": [
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "SQL Server",
+    "Oracle",
+    "Redis"
+  ],
+  "DevOps, Cloud & Messaging": [
+    "AWS",
+    "Google Cloud Platform (GCP)",
+    "Docker",
+    "Kubernetes",
+    "Apache Kafka",
+    "RabbitMQ",
+    "CI/CD",
+    "Linux",
+    "Windows",
+    "Bash"
+  ],
+  "Testing, Tools & Methodology": [
+    "JUnit 5",
+    "Mockito",
+    "Postman",
+    "Swagger",
+    "OpenAPI",
+    "Git",
+    "GitFlow",
+    "Scrum"
+  ]
+}
 
 [![](https://visitcount.itsvg.in/api?id=Abel3581&icon=0&color=0)](https://visitcount.itsvg.in)
 
