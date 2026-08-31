@@ -21,16 +21,6 @@ Apasionado por transformar requerimientos de negocio complejos en soluciones té
 
 ---
 
-<p align="center">
-  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1764448789/og-image_ldpgqt.png" width="400" alt="Tienda Digital">
-</p>
-
-<p align="center">
-  <a href="https://tutiendadigital.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Tienda%20Digital-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Tienda Digital" />
-  </a>
-</p>
-
 ## Portfolio
 
 <p align="center">
@@ -42,34 +32,6 @@ Apasionado por transformar requerimientos de negocio complejos en soluciones té
     <img src="https://img.shields.io/badge/Ver%20Portfolio-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Portfolio" />
   </a>
 </p>
-
-## e-commerce - Clon Fravega
-
-<p align="center">
-  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1773670614/electro-theme-og.png_ir7x3g.png" width="400" alt="Clon Fravega">
-</p>
-
-<p align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Proyecto-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Proyecto" />
-  </a>
-</p>
-
-## e-commerce - Clon Coto Digital
-
-<p align="center">
-  <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761580413/home_ojsacs.png" width="400" alt="Clon Coto Digital">
-</p>
-
-<p align="center">
-  <a href="https://ecommerce-front-cyan-zeta.vercel.app/cliente" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Proyecto-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Proyecto" />
-  </a>
-</p>
-
-## 🎬 Epicentro app android 
-
-[https://github.com/user-attachments/assets/8b109fce-f4e0-4075-bdb5-5748a308b265](https://github.com/user-attachments/assets/3cc235e4-762a-4755-a1ae-2535d11e3f57)
 
 ---
 
