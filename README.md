@@ -1,13 +1,23 @@
-## Full-Stack Developer | Java, Spring Boot, Angular
+## Hi there! 👋 I'm a Full-Stack Developer | Java, Kotlin, Spring Boot, Angular
 
-Desarrollador Java con 6 años de experiencia en el desarrollo full-stack de aplicaciones web.
+Desarrollador Full-Stack con **6 años de experiencia** diseñando y construyendo aplicaciones web robustas, escalables y de alto rendimiento. Me especializo en el ecosistema backend con Java y Kotlin, combinándolo con arquitecturas modernas en el frontend mediante Angular.
 
-Creo tiendas online modernas y de alto rendimiento utilizando tecnologías empresariales como Java, Spring Boot, Angular, PostgreSQL y Mercado Pago.
-Ofrezco dos modalidades según la necesidad del cliente:
+### 🚀 Stack Tecnológico y Habilidades
+* **Backend:** Java, Kotlin, Spring Boot, Spring Security, Hibernate / JPA, REST APIs.
+* **Frontend:** Angular, TypeScript, RxJS, HTML5, CSS3 / Tailwind.
+* **Bases de Datos & Cloud:** PostgreSQL, MySQL, Docker.
+* **Integraciones & Pagos:** Pasarelas de pago (Mercado Pago), servicios de terceros.
+* **Buenas Prácticas:** Clean Code, Arquitectura Limpia, Control de Versiones (Git).
 
-🧩 Plantillas predefinidas diseñadas y desarrolladas por mí, listas para implementar.
+---
 
-🛠️ Desarrollo 100% a medida, adaptado a la identidad, funcionalidades y procesos del negocio.
+### 💡 Enfoque Profesional
+Apasionado por transformar requerimientos de negocio complejos en soluciones técnicas eficientes. Cuento con una sólida trayectoria abarcando todo el ciclo de vida del software (SDLC), desde el diseño de bases de datos relacionales y APIs seguras hasta interfaces de usuario rápidas y optimizadas. 
+
+* **Arquitectura Escalable:** Desarrollo de servicios backend orientados al rendimiento y la seguridad.
+* **Adaptabilidad:** Capacidad para integrarme en equipos ágiles, liderar iniciativas técnicas o desarrollar proyectos completos de principio a fin (End-to-End).
+
+📫 ¿Te interesa conectar o colaborar en un proyecto? ¡Hablemos!
 
 Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y escalabilidad de nivel profesional.
 
