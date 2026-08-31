@@ -19,7 +19,7 @@ Apasionado por transformar requerimientos de negocio complejos en soluciones té
 
 📫 ¿Te interesa conectar o colaborar en un proyecto? ¡Hablemos!
 
-Sin WordPress, sin plugins de terceros: código real, arquitectura sólida y escalabilidad de nivel profesional.
+---
 
 <p align="center">
   <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1764448789/og-image_ldpgqt.png" width="400" alt="Tienda Digital">
