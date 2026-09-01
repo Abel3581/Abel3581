@@ -126,16 +126,15 @@ Desarrollador Full-Stack con **6 años de experiencia** diseñando y construyend
 </p>
 
 ---
-
 ## 🌐 Sociales
 
-<p align="start">
+<p align="center">
   <a href="https://www.linkedin.com/in/abel-fernando-acevedo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.credly.com/users/abel-acevedo/" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-%23FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly" />
   </a>
 </p>
 
