@@ -8,7 +8,6 @@ Desarrollador Full-Stack con **6 años de experiencia** diseñando y construyend
 
 ```json
 {
-  "$schema": "[https://json.schemastore.org/partial-manifest](https://json.schemastore.org/partial-manifest)",
   "developer": {
     "name": "Abel Acevedo",
     "handle": "Abel3581",
@@ -96,11 +95,6 @@ Desarrollador Full-Stack con **6 años de experiencia** diseñando y construyend
       "Agile / Scrum"
     ]
   },
-  "telemetry_and_metrics": {
-    "github_stats_endpoint": "[https://visitcount.itsvg.in/api?id=Abel3581&icon=0&color=0](https://visitcount.itsvg.in/api?id=Abel3581&icon=0&color=0)",
-    "repository_access": "Secured / Enterprise Submodules"
-  }
-}
 
 ```
 ---
