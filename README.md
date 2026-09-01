@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Abel Acevedo | Full-Stack Developer | Java, Kotlin, Spring Boot, Angular
 
-Desarrollador Full-Stack con **6 años de experiencia** diseñando y construyendo aplicaciones web robustas, escalables y de alto rendimiento. Me especializo en el ecosistema backend con Java y Kotlin, combinándolo con arquitecturas modernas en el frontend mediante Angular.
+Desarrollador Full-Stack con **6 años de experiencia** diseñando y construyendo aplicaciones web robustas, escalables y de alto rendimiento. Me especializo en el ecosistema backend con Java y Kotlin, combinándolo con arquitecturas modernas en el frontend mediante Angular, Jetpack Compose, ect.
 
 ---
 
