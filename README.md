@@ -1,3 +1,11 @@
+## Hi there! 👋 I'm Abel Acevedo | Full-Stack Developer | Java, Kotlin, Spring Boot, Angular
+
+Desarrollador Full-Stack con **6 años de experiencia** diseñando y construyendo aplicaciones web robustas, escalables y de alto rendimiento. Me especializo en el ecosistema backend con Java y Kotlin, combinándolo con arquitecturas modernas en el frontend mediante Angular.
+
+---
+
+## 🛠️ Perfil Técnico y Stack (Manifesto JSON)
+
 ```json
 {
   "$schema": "[https://json.schemastore.org/partial-manifest](https://json.schemastore.org/partial-manifest)",
@@ -88,34 +96,6 @@
       "Agile / Scrum"
     ]
   },
-  "education_and_credentials": [
-    {
-      "degree": "Licenciatura en Sistemas",
-      "institution": "Universidad Nacional de General Sarmiento",
-      "timeline": "2018 – Present"
-    },
-    {
-      "credential": "Checkout Pro Official Certification",
-      "issuer": "Mercado Pago",
-      "year": 2025,
-      "description": "Advanced online payment integrations, multi-payment methods, and secure webhooks."
-    },
-    {
-      "credential": "AWS re/Start Cloud Solutions Architect Graduate",
-      "issuer": "Amazon Web Services",
-      "year": 2024
-    },
-    {
-      "credential": "Java Spring Boot Enterprise Bootcamp",
-      "issuer": "Besysoft",
-      "year": 2023
-    },
-    {
-      "credential": "Java Job-Ready Acceleration Program",
-      "issuer": "Alkemy Academy",
-      "year": 2021
-    }
-  ],
   "telemetry_and_metrics": {
     "github_stats_endpoint": "[https://visitcount.itsvg.in/api?id=Abel3581&icon=0&color=0](https://visitcount.itsvg.in/api?id=Abel3581&icon=0&color=0)",
     "repository_access": "Secured / Enterprise Submodules"
