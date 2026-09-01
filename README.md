@@ -127,12 +127,20 @@ Desarrollador Full-Stack con **6 años de experiencia** diseñando y construyend
 
 ---
 
-## 🌐 Sociales:
-<p align="start">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-fernando-acevedo/)
-  [![Credly](https://img.shields.io/badge/Credly-%23F24E1E.svg?logo=credly&logoColor=white)](https://www.credly.com/users/abel-acevedo/)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/AbelFerAcevedo/)
-</p>
+## 🌐 Sociales
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/abel-fernando-acevedo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/users/abel-acevedo/" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-%23FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/AbelFerAcevedo/" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
 
 
