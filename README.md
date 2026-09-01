@@ -94,7 +94,7 @@ Desarrollador Full-Stack con **6 años de experiencia** diseñando y construyend
       "GitFlow",
       "Agile / Scrum"
     ]
-  },
+  }
 
 ```
 ---
