@@ -101,3 +101,29 @@ Desarrollador Full-Stack con **6 años de experiencia** diseñando y construyend
     "repository_access": "Secured / Enterprise Submodules"
   }
 }
+
+```
+
+## Portfolio
+
+<p align="center">
+
+  <img src="https://res.cloudinary.com/djwlyddad/image/upload/v1787843004/portfolio/og-imgage_jclbtx.png" width="400" alt="Portfolio">
+</p><h3 align="center">🏅 Mis certificaciones</h3>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/0b5ac6d0-0f15-4dc6-b2ec-d7c0e1b3dd9d/public_url" target="_blank">
+    <img src="https://github.com/user-attachments/assets/67264baf-6598-408c-8447-6dc27235e5ef" alt="AWS Re/Start Graduate" width="125" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761946071/Insignia_fwkkyp.png" target="_blank">
+    <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761946071/Insignia_fwkkyp.png" alt="Certificado Mercado Pago Checkout Pro" width="170" />
+  </a>
+</p>
+
+<p align="center">
+
+  <a href="https://abel-acevedo-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Portfolio-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Portfolio" />
+  </a>
+</p>
