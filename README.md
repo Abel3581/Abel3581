@@ -104,12 +104,21 @@ Desarrollador Full-Stack con **6 años de experiencia** diseñando y construyend
 
 ```
 ---
+
 ## 🚀 Portfolio
 
 <p align="center">
   <img src="https://res.cloudinary.com/djwlyddad/image/upload/v1787843004/portfolio/og-imgage_jclbtx.png" width="450" alt="Portfolio Preview">
 </p>
+<p align="center">
+  <br>
+  <a href="https://abel-acevedo-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Portfolio-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Portfolio" />
+  </a>
+</p>
+
 ---
+
 <h3 align="center">🏅 Mis certificaciones</h3>
 
 <p align="center">
@@ -122,9 +131,4 @@ Desarrollador Full-Stack con **6 años de experiencia** diseñando y construyend
   </a>
 </p>
 
-<p align="center">
-  <br>
-  <a href="https://abel-acevedo-dev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Portfolio-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Portfolio" />
-  </a>
-</p>
+
