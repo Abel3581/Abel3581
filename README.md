@@ -101,10 +101,10 @@ Desarrollador Full-Stack con **6 años de experiencia** diseñando y construyend
 
 ## 🚀 Portfolio
 
-<p align="center">
+<p align="start">
   <img src="https://res.cloudinary.com/djwlyddad/image/upload/v1787843004/portfolio/og-imgage_jclbtx.png" width="450" alt="Portfolio Preview">
 </p>
-<p align="center">
+<p align="start">
   <br>
   <a href="https://abel-acevedo-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20Portfolio-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Portfolio" />
@@ -113,9 +113,9 @@ Desarrollador Full-Stack con **6 años de experiencia** diseñando y construyend
 
 ---
 
-<h3 align="center">🏅 Mis certificaciones</h3>
+<h3 align="start">🏅 Mis certificaciones</h3>
 
-<p align="center">
+<p align="start">
   <a href="https://www.credly.com/badges/0b5ac6d0-0f15-4dc6-b2ec-d7c0e1b3dd9d/public_url" target="_blank">
     <img src="https://github.com/user-attachments/assets/67264baf-6598-408c-8447-6dc27235e5ef" alt="AWS Re/Start Graduate" width="125" />
   </a>
@@ -124,5 +124,15 @@ Desarrollador Full-Stack con **6 años de experiencia** diseñando y construyend
     <img src="https://res.cloudinary.com/dlv9gwnw3/image/upload/v1761946071/Insignia_fwkkyp.png" alt="Certificado Mercado Pago Checkout Pro" width="170" />
   </a>
 </p>
+
+---
+
+## 🌐 Sociales:
+<p align="start">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-fernando-acevedo/)
+  [![Credly](https://img.shields.io/badge/Credly-%23F24E1E.svg?logo=credly&logoColor=white)](https://www.credly.com/users/abel-acevedo/)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/AbelFerAcevedo/)
+</p>
+
 
 
